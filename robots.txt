@@ -5,3 +5,4 @@ user-agent: *
 disallow: /img
 disallow: /js
 disallow: /css
+disallow: /fonts
