@@ -30,7 +30,7 @@
 	-moz-transition: all .25s ease-in-out;
 	-o-transition: all .25s ease-in-out;
 	transition: all .25s ease-in-out;
-	font-family: "zurb-logo";
+	font-family: "hills-logo";
 	font-weight: normal;
 	font-size: 1.125em;
 	padding: 0;
@@ -182,17 +182,22 @@
 	padding-bottom: 5px;
 	margin-bottom: 25px;
 }
-.zurb-footer-bottom a.zurb-logo {
+.zurb-footer-bottom a.hills-logo {
 	color: #858585;
 	font-weight: normal;
-	background: url("../img/icn/footer-icons.png") no-repeat 0 3px;
-	padding: 25px 0 0 0;
+	background: url("../img/hills-reverse.svg") no-repeat 0 0;
+	padding:25px 0 0 0;
 	font-size: 1em;
 	display: inline-block;
 	font-family: "Proxima Nova", "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	width: 90px;
 }
-.zurb-footer-bottom a.zurb-logo:hover {
+
+.no-svg .zurb-footer-bottom a.hills-logo {
+	background-image: url("../img/hills-reverse.png");}
+
+
+.zurb-footer-bottom a.hills-logo:hover {
 	opacity: 0.8;
 }
 .zurb-footer-bottom ul.zurb-links {
@@ -314,7 +319,7 @@
 	.zurb-footer-bottom .columns {
 		padding: 0;
 	}
-	.zurb-footer-bottom a.zurb-logo {
+	.zurb-footer-bottom a.hills-logo {
 		display: block;
 		margin: 0 auto;
 	}

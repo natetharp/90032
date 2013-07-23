@@ -65,6 +65,8 @@ h3 { font-size: 27px; }
 
 h4 { font-size: 23px; }
 
+#mainContent h4 {color:#2ba6cb; font-weight:bold;}
+
 h5 { font-size: 17px; }
 
 h6 { font-size: 14px; }
@@ -1288,11 +1290,11 @@ header h4 { color: #fff; font-weight: 300; }
 p.disclaimer { color: #999; }
 
 /* Homepage */
-header#homepage { background-position: center bottom; padding: 120px 0 220px; background-repeat: no-repeat; background-color: #13A7C7; }
-header#homepage.homeslide-1 { background-image: url("../images/device-bg1.png"); }
-header#homepage.homeslide-2 { background-image: url("../images/device-bg2.png"); }
-header#homepage.homeslide-3 { background-image: url("../images/device-bg3.png"); background-position: center top; }
-header#homepage.homeslide-4 { background-image: url("../images/device-bg4.png"); }
+header#homepage { background-position: center bottom; padding: 60px 0 110px; background-repeat: no-repeat; background-color: #13A7C7; }
+header#homepage.homeslide-1 { background-image: url("../img/hero-bg01.jpg"); /*opacity: 0.8; filter: alpha(opacity=80);*/}
+header#homepage.homeslide-2 { background-image: url("../img/hero-bg01.png"); }
+header#homepage.homeslide-3 { background-image: url("../img/hero-bg01.png"); background-position: center top; }
+header#homepage.homeslide-4 { background-image: url("../img/hero-bg01.png");}
 
 header#homepage h4 { margin-bottom: 44px; }
 
@@ -1307,7 +1309,7 @@ header#homepage .button.secondary:hover { background: #207c98; background: rgba(
 header.gray { background-color: #eeeeee; padding: 12px 0; }
 
 #watch { display: block; overflow: hidden; *zoom: 1; margin-top: 15px; }
-#watch section { float: left; width: 150px; margin-bottom: 4px; }
+#watch section { float: left; width:220px; margin-bottom: 4px; }
 #watch a { color: #fff; opacity: .7; padding-left: 25px; -webkit-transition: opacity 0.1s ease-in; -webkit-transition-delay: ease-out; -moz-transition: opacity 0.1s ease-in ease-out; -o-transition: opacity 0.1s ease-in ease-out; transition: opacity 0.1s ease-in ease-out; }
 #watch a:hover { opacity: 1; }
 #watch #stargazers a { background: url("../images/icon-stargazer.png") no-repeat left center; }
@@ -1326,11 +1328,13 @@ ul[data-clearing].block-grid > li { height: 80px; }
   #watch section { float: left; width: 50%; }
   #watch section .button { width: 80%; display: inline-block; float: right; }
   #watch section:first-child .button { width: 60%; float: none; } }
-@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) { header#homepage { background-image: url("../images/device-bg1-retina.png"); }
-  header#homepage.homeslide-1 { background-image: url("../images/device-bg1-retina.png"); background-size: 1800px 576px; }
-  header#homepage.homeslide-2 { background-image: url("../images/device-bg2-retina.png"); background-size: 1800px 576px; }
-  header#homepage.homeslide-3 { background-image: url("../images/device-bg3-retina.png"); background-position: center top; background-size: 1800px 576px; }
-  header#homepage.homeslide-2 { background-image: url("../images/device-bg4-retina.png"); background-size: 2025px 576px; } }
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) { 
+
+header#homepage { background-image: url("../images/device-bg1-retina.png"); }
+header#homepage.homeslide-1 { background-image: url("../images/device-bg1-retina.png"); background-size: 1600px 576px; }
+header#homepage.homeslide-2 { background-image: url("../images/device-bg2-retina.png"); background-size: 1800px 576px; }
+header#homepage.homeslide-3 { background-image: url("../images/device-bg3-retina.png"); background-position: center top; background-size: 1800px 576px; }
+header#homepage.homeslide-2 { background-image: url("../images/device-bg4-retina.png"); background-size: 2025px 576px; } }
 #homepageFeatures { background: #ecf8ff; padding: 42px 0 44px 0; /*margin-bottom: 44px;*/ }
 
 #homepageFeatures h3 { color: #2ba6cb; margin-bottom: 8px; }
