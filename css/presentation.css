@@ -73,6 +73,8 @@ h6 { font-size: 14px; }
 
 hr { border: solid #ddd; border-width: 1px 0 0; clear: both; margin: 22px 0 21px; height: 0; }
 
+section#blog hr {margin-bottom:55px;}
+
 .subheader { line-height: 1.3; color: #6f6f6f; font-weight: 300; margin-bottom: 17px; }
 
 em, i { font-style: italic; line-height: inherit; }
@@ -1287,7 +1289,9 @@ header h1 { color: #fff; font-weight: 500; }
 
 header h4 { color: #fff; font-weight: 300; }
 
-p.disclaimer { color: #999; }
+p.disclaimer, p.date {color: #999;}
+
+p.date {font-size:13px; font-style:italic; margin-bottom:20px;}
 
 /* Homepage */
 header#homepage { background-position: center bottom; padding: 60px 0 110px; background-repeat: no-repeat; background-color: #13A7C7; }
