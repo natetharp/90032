@@ -43,6 +43,28 @@ p a, p a:visited { line-height: inherit; }
 
 #map_canvas object { max-width: none; }
 
+
+a[rel="footnote"] {
+    border-bottom: none;
+    /*background-color: #fff9c7;*/
+    line-height: 0;
+}
+
+a[rel="footnote"]:before {
+    content: "(";
+}
+
+a[rel="footnote"]:after {
+    content: ")";
+}
+
+a[rev="footnote"] {
+    border-bottom: none;
+}
+
+
+
+
 /* Reset for strange margins by default on <figure> elements */
 figure { margin: 0; }
 
@@ -65,7 +87,9 @@ h3 { font-size: 27px; }
 
 h4 { font-size: 23px; }
 
-#mainContent h4 {color:#2ba6cb; font-weight:bold;}
+#faq h4, #blog h4, #did-you-know h4 {color:#2ba6cb;}
+
+#faq h4 {font-weight:bold;}
 
 h5 { font-size: 17px; }
 
