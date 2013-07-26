@@ -1397,6 +1397,10 @@ header#homepage.homeslide-2 { background-image: url("../images/device-bg4-retina
 .pic#homepageCedillo { background-image: url("../img/mug-gilbert-cedillo.jpg"); }
 .pic#homepageGarcetti { background-image: url("../img/mug-eric-garcetti.jpg"); }
 
+.pic#homepageChavoya, .pic#homepageFukushima, .pic#homepageHanson { background-image: url("../img/mug-female.jpg"); }
+.pic#homepageAngulo, .pic#homepageMarquez { background-image: url("../img/mug-male.jpg"); }
+
+
 @media only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) { .pic#homepageImgMobileFirst { background-image: url("../images/icon-mobilefirst-retina.png"); }
   .pic#homepageImgSemantic { background-image: url("../images/icon-semantic-retina.png"); }
   .pic#homepageImgJavascript { background-image: url("../images/icon-javascript-retina.png"); } }
