@@ -105,7 +105,7 @@ em, i { font-style: italic; line-height: inherit; }
 
 strong, b { font-weight: bold; line-height: inherit; }
 
-small { font-size: 60%; line-height: inherit; }
+small { font-size: 80%; line-height: inherit; }
 
 code { font-weight: bold; background: #ffff99; }
 
@@ -1397,8 +1397,8 @@ header#homepage.homeslide-2 { background-image: url("../images/device-bg4-retina
 .pic#homepageCedillo { background-image: url("../img/mug-gilbert-cedillo.jpg"); }
 .pic#homepageGarcetti { background-image: url("../img/mug-eric-garcetti.jpg"); }
 
-.pic#homepageChavoya, .pic#homepageFukushima, .pic#homepageHanson { background-image: url("../img/mug-female.jpg"); }
-.pic#homepageAngulo, .pic#homepageMarquez { background-image: url("../img/mug-male.jpg"); }
+.pic#homepageFreer, .pic#homepageRomero { background-image: url("../img/mug-female.jpg"); }
+.pic#homepageRoschen, .pic#homepageBurton, .pic#homepageCardoso, .pic#homepageHovaguimian, .pic#homepageLessin, .pic#homepagePerlman { background-image: url("../img/mug-male.jpg"); }
 
 
 @media only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) { .pic#homepageImgMobileFirst { background-image: url("../images/icon-mobilefirst-retina.png"); }
