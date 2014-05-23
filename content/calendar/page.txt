@@ -1,0 +1,8 @@
+title: Calendar
+-
+lede: Stay up to date on events in the community
+-
+content:
+<div class="flex-video">
+	<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;height=800&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=nrgk3p3jtlf6o7o20g092l36l0%40group.calendar.google.com&amp;color=%23000000&amp;ctz=America%2FLos_Angeles" style=" border-width:0 " width="800" height="800" frameborder="0" scrolling="no"></iframe>
+</div>

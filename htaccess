@@ -31,3 +31,7 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_URI} !public/
 RewriteRule ^(.+)$ public/$1 [L]
+
+
+# 301 REDIRECTS
+Redirect 301 /docs/bancomer-mitigated-negative%20declaration.pdf http://90032.org/docs/bancomer-mitigated-negative-declaration.pdf 

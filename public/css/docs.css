@@ -1,0 +1,82 @@
+
+/* Footer
+   ========================================================================== */
+footer {
+background: #333;
+padding: 24px 0 10px;}
+
+footer .design-border {
+border-bottom: 1px solid #484848;
+padding-bottom: 5px;
+margin-bottom: 25px;}
+
+footer a.logo {
+color: #858585;
+font-weight: normal;
+background: url("../img/icons/footer-icons.png") no-repeat 0 3px;
+padding: 23px 0 0 0 !important;
+font-size: 0.88889rem;
+display: inline-block;
+width: 90px;}
+
+footer a.logo:hover {
+opacity: 0.8;
+filter: alpha(opacity=80);}
+
+footer ul.links {
+margin: 0;
+display: inline-block;
+padding-bottom: 0px;}
+
+footer ul.links li {
+display: block;
+float: left;
+margin-left: 6px;
+text-transform: uppercase;
+font-weight: 700;
+font-size: 0.75rem;}
+
+footer ul.links li a {
+color: #666;
+padding: 3px 6px;}
+
+footer ul.links li a:hover {
+color: #777;}
+
+footer p.copyright {
+margin: 6px 0 0;
+font-size: 0.75rem;
+color: #666;}
+
+footer ul.social {
+display: block;
+float: right;
+margin-bottom: 8px;}
+
+footer ul.social li {
+list-style: none;
+display: block;
+float: left;
+margin-left: 10px;}
+
+footer ul.social li:first-child {
+margin-left: 0;}
+
+footer ul.social li a {
+display: block;
+height: 50px;
+width: 50px;
+background: url("../img/icons/social.png") no-repeat center 0;}
+
+footer ul.social li a:hover {
+opacity: 0.8;
+filter: alpha(opacity=80);}
+
+footer ul.social li a.twitter {
+background-position: center 0;}
+
+footer ul.social li a.facebook {
+background-position: center -200px;}
+
+footer ul.social li a.mail {
+background-position: center -400px; }

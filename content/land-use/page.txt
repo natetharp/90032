@@ -1,0 +1,35 @@
+title: Land Use Issues
+-
+lede: The Eastern &amp; Lombardy project isn't the only one impacting our area
+-
+content:
+<h3><a name="20130726"></a>Soto Street Bridge</h3>
+<!--<p class="date">July 26, 2013</p>-->
+
+
+<h6>Next Meeting:</h6>
+<p><strong>Soto Street Bridge Community Briefing</strong><br />
+Thursday, August 14, 2013, 6:00pm - 8:00pm<br />
+El Sereno Senior Center<br />
+4818 Klamath Path<br />
+Los Angeles, CA 90032</p>
+
+<h6>Links:</h6>
+<ul>
+<li><a href="http://eng.lacity.org/techdocs/emg/Soto_Street_Bridge_ND.pdf" title="" target="_blank">Initial Study/Negative Declaration prepared by the City of Los Angeles [PDF]</a></li>
+<li><a href="http://egpnews.com/2013/02/plan-will-demolish-soto-street-bridge-rework-traffic/" title="" target="_blank">Plan Will Demolish Soto Street Bridge, Rework Traffic</a></li>
+<li><a href="http://www.theeastsiderla.com/2010/01/city-threatens-el-sereno-land-owner-with-eminent-domain/" title="" target="_blank">City threatens El Sereno land owner with eminent domain</a></li>
+</ul>
+
+<!--<h6>Additional info:</h6>
+<p><a href="http://www.elserenohistoricalsociety.org/El_Sereno__P___E_RR.php" title="" target="_blank">El Sereno Historical Society</a></p>-->
+
+
+
+<hr />
+
+
+<h3><a name="20130726"></a>Proposed Legislation</h3>
+<!--<p class="date">July 26, 2013</p>-->
+
+<p><a href="http://www.theeastsiderla.com/2013/07/councilman-proposes-less-dense-development-of-echo-park-and-silver-lake-hillsides/" title="" target="_blank">Councilman proposes less dense development of Echo Park and Silver Lake hillsides</a></p>

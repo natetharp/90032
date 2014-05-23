@@ -1,0 +1,32 @@
+title: Mission
+-
+lede:
+-
+content: 
+<p>We are an organization comprised of community members who work to inform and empower the greater El Sereno community. Through hosted events, local outreach, and direct community participation, we aim to improve the shared quality of life for the future of El Sereno with four basic goals in mind: <strong>Safety</strong>, <strong>Beautification</strong>, <strong>Responsible Development</strong>, and <strong>Community Involvement</strong>.</p>
+
+<h4>Safety:</h4>
+<ul>
+<li>Promote local neighborhood improvement efforts</li>
+<li>Liaise with local government entities to make resources available to neighborhoods in need</li>
+</ul>
+
+<h4>Beautification:</h4>
+<ul>
+<li>Hold local clean-up and lead planting events in neighborhoods</li>
+<li>Work with other governmental and community organizations to undertake larger projects</li>
+</ul>
+
+<h4>Responsible Development:</h4>
+<ul>
+<li>Promote low-density residential land use</li>
+<li>Conserve open space and ecologically important areas</li>
+<li>Cultural resources?</li>
+<li>Historical sites and landmarks? (ES Historical Society)</li>
+</ul>
+
+<h4>Community Involvement:</h4>
+<ul>
+<li>Encourage residents to undertake their own safety, beautification and responsible development actions.</li>
+<li>Facilitate community events</li>
+</ul>

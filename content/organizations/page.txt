@@ -1,0 +1,273 @@
+title: Organizations
+-
+lede:
+-
+content:
+<dl class="tabs" data-tab>
+	<dd class="active"><a href="#panel1">Local</a></dd>
+	<dd><a href="#panel2">City</a></dd>
+	<dd><a href="#panel3">Government</a></dd>
+	<dd><a href="#panel4">Schools</a></dd>
+	<dd><a href="#panel5">Publications</a></dd>
+</dl>
+
+<div class="tabs-content">
+	<div class="content active" id="panel1">
+		<h4>El Sereno Community Coordinating Council (ESCCC)</h4>
+		<p>[Description]</p>
+		
+		<ul class="button-group round">
+			<!--<li><a href="#" class="small button secondary" target="_blank">Website</a></li>-->
+			<li><a href="https://www.facebook.com/pages/El-Sereno-Community-Coordinating-Council/172891029458903" class="small button secondary" target="_blank">Facebook</a></li>
+			<!--<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
+		</ul>
+		
+		
+		<h4>The El Sereno Bungalows Collective</h4>
+		<p>[Description]</p>
+		<ul class="button-group round">
+			<li><a href="www.indiegogo.com/everythingforeveryone" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="https://www.facebook.com/ElSerenoBungalows" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="https://twitter.com/ElSerenoBungalo" class="small button secondary" target="_blank">Twitter</a></li>
+		</ul>
+		<!--http://la.streetsblog.org/2013/03/28/diy-community-arts-center-el-sereno-bungalow-project/-->
+		<p><strong>Members:</strong> Lis Barajas, Jonathan Barrales, Iris De Anda, Angela Flores, Hector Flores, Joe Parker, Jeffery Perez</p>
+		
+		
+		<h4>El Sereno Chamber of Commerce</h4>
+		<p>[Description]</p>
+		<ul class="button-group round">
+			<li><a href="http://www.elserenochamber.org" class="small button secondary" target="_blank">Website</a></li>
+			<!--<li><a href="#" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
+		</ul>
+		
+		
+		<h4>El Sereno Historical Society</h4>
+		<p>[Description]</p>
+		<ul class="button-group round">
+			<li><a href="http://www.elserenohistoricalsociety.org" class="small button secondary" target="_blank">Website<!-- http://www.elsereno90032.org--></a></li>
+			<li><a href="https://www.facebook.com/ElSerenoHistoricalSociety" class="small button secondary" target="_blank">Facebook</a></li>
+			<!--<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
+		</ul>
+		
+		
+		<h4>Boy Scouts, Troop 139, South Pasadena</h4>
+		<p>[Description]</p>
+		<ul class="button-group round">
+			<li><a href="http://www.troop139.com" class="small button secondary" target="_blank">Website</a></li>
+			<!--<li><a href="#" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
+		</ul>
+		<p><small>(possibly other local troops in North Star district - http://www.boyscoutsla.org/website/North_Star/home.htm)</small></p>
+		
+		
+		<h4>El Sereno Community Garden</h4>
+		<p>[Description]</p>
+		<ul class="button-group round">
+			<li><a href="http://lagardencouncil.org/el-sereno/" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="https://www.facebook.com/pages/El-Sereno-Community-Garden/129489093746904" class="small button secondary" target="_blank">Facebook</a></li>
+			<!--<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
+		</ul>
+		
+		
+		<h4>TERA (The Eagle Rock Association)</h4>
+		<p>[Description]</p>
+		
+		<ul class="button-group round">
+			<li><a href="http://tera90041.org" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="https://www.facebook.com/pages/TERA-The-Eagle-Rock-Association/133657817210" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="http://twitter.com/TERA90041" class="small button secondary" target="_blank">Twitter</a></li>
+		</ul>
+		
+		
+		<h4>Walk Eagle Rock</h4>
+		<p>[Description]</p>
+		
+		<ul class="button-group round">
+			<li><a href="http://walkeaglerock.wordpress.com" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="http://facebook.com/walkeaglerock" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="http://twitter.com/walkeaglerock" class="small button secondary" target="_blank">Twitter</a></li>
+			<li><a href="http://flickr.com/walkeaglerock" class="small button secondary" target="_blank">Flickr</a></li>
+		
+		<li><a href="mailto: walkeaglerock@gmail.com" class="small button secondary" target="_blank">Email</a></li>
+		</ul>
+	</div>
+	<div class="content" id="panel2">
+		<h4>Living Streets LA</h4>
+		<p>[Description]</p>
+		<ul class="button-group round">
+			<li><a href="http://www.livingstreetsla.org" class="small button secondary" target="_blank">Website</a></li>
+			<!--<li><a href="#" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
+		</ul>
+		
+		
+		<h4>Los Angeles Neighborhood Land Trust</h4>
+		<p>[Description]</p>
+		<ul class="button-group round">
+			<li><a href="http://www.lanlt.org" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="https://www.facebook.com/LANeighborhoodLandTrust" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="https://twitter.com/LANLT" class="small button secondary" target="_blank">Twitter</a></li>
+		</ul>
+		
+		
+		<h4>Council for Watershed Health</h4>
+		<p>[Description]</p>
+		<ul class="button-group round">
+			<li><a href="http://watershedhealth.org" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="https://www.facebook.com/CouncilforWatershedHealth" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="https://twitter.com/cwh_org" class="small button secondary" target="_blank">Twitter</a></li>
+		</ul>
+		
+		
+		<h4>RePower LA</h4>
+		<p>[Description]</p>
+		<ul class="button-group round">
+			<li><a href="http://www.repowerla.org" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="https://www.facebook.com/RePowerLA" class="small button secondary" target="_blank">Facebook</a></li>
+			<!--<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
+			<li><a href="http://www.repowerla.org/?feed=rss2" class="small button secondary" target="_blank">RSS</a></li>
+		</ul>
+		
+		
+		<h4>LA2050</h4>
+		<p>[Description]</p>
+		<ul class="button-group round">
+			<li><a href="http://www.la2050.org" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="https://www.facebook.com/LA2050" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="https://twitter.com/la2050/" class="small button secondary" target="_blank">Twitter</a></li>
+		</ul>
+		
+		
+		<h4>The LA Fund</h4>
+		<p>The Los Angeles Fund for Public Education was formed in the summer of 2011 by LAUSD Superintendent John Deasy and philanthropist Megan Chernin.</p>
+		<ul class="button-group round">
+			<li><a href="http://lafund.org" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="http://www.facebook.com/lafund" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="http://twitter.com/lafund" class="small button secondary" target="_blank">Twitter</a></li>
+			<li><a href="mailto:info@lafund.org" class="small button secondary" target="_blank">Email</a></li>
+			<li><a href="http://instagram.com/lafund" class="small button secondary" target="_blank">Instagram</a></li>				
+		</ul>									
+		
+		
+		<h4>Cultivate Los Angeles</h4>
+		<p>[Description]</p>
+		<ul class="button-group round">
+			<li><a href="http://cultivatelosangeles.org" class="small button secondary" target="_blank">Website</a></li>
+			<!--<li><a href="#" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
+			<li><a href="e" class="small button secondary" target="_blank">RSS</a></li>
+			
+		</ul>
+	</div>
+	<div class="content" id="panel3">
+		<h4>LA-32 Neighborhood Council</h4>
+		<p>[Description]</p>
+		<ul class="button-group round">
+			<li><a href="http://la32nc.org" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="https://www.facebook.com/LA32NeighborhoodCouncil" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="https://twitter.com/LA32NC" class="small button secondary" target="_blank">Twitter</a></li>
+			<li><a href="http://la32nc.org/feed/" class="small button secondary" target="_blank">RSS</a></li>
+		</ul>
+		
+		
+		<h4>Million Trees Los Angeles</h4>
+		<p>[Description]</p>
+		<ul class="button-group round">
+			<li><a href="http://www.milliontreesla.org" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="https://www.facebook.com/MillionTreesLA" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="https://twitter.com/MillionTreesLA" class="small button secondary" target="_blank">Twitter</a></li>
+		</ul>
+		
+		<div class="adr">
+			<span class="street-address">200 N Spring St.</span>
+			<span class="extended-address">M154</span>
+			<span class="locality">Los Angeles</span>,
+			<span class="region">CA</span>
+			<span class="postal-code">90012</span>
+			<span class="country-name">USA</span>
+			<span class="tel"><a href="tel:213-978-0745">213-978-0745</a></span>
+		</div>
+		
+		
+		<h4>Plan for Healthy Los Angeles</h4>
+		<p>The Plan for Healthy Los Angeles aims to create healthy communities where residents can thrive. Recognizing that health happens within neighborhoods, the City of Los Angeles wants to build communities where the healthiest choice is the easiest choice.</p>
+		<ul class="button-group round">
+			<li><a href="http://healthyplan.la" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="http://www.facebook.com/healthplanLA" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="http://twitter.com/healthplanLA" class="small button secondary" target="_blank">Twitter</a></li>
+			<li><a href="mailto:healthplanla@gmail.com" class="small button secondary" target="_blank">Email</a></li>
+			
+			 
+		</ul>
+		
+		
+		<h4>Fuego Tech</h4>
+		<p>Fuego Tech Fire Rangers mission is to help young adults from the Los Angeles area to increase their self-esteem and image by providing a positive social circle of discipline through education, job training, life skills development classes, and experiential wildfire prevention and abatement training.</p>
+		<ul class="button-group round">
+			<li><a href="http://www.fuegotech76.org" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="https://www.facebook.com/pages/Fuego-Tech-Fire-Rangers-Crew-76/213749488664944" class="small button secondary" target="_blank">Facebook</a></li>
+			<!--<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
+			<li><a href="mailto:fuegotechcrew76@gmail.com" class="small button secondary" target="_blank">Email</a></li>
+		</ul>
+		
+		<h4>re:code LA</h4>
+		<p>The Los Angeles City Planning Department is working to modernize the city's code by creating a web-based zoning code, a quick-reference guide to land use and development regulations, and a unified downtown development code.</p>
+		<ul class="button-group round">
+			<li><a href="http://recode.la" class="small button secondary" target="_blank">Website</a></li>
+			<!--<li><a href="#" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
+		</ul>
+		
+	</div>
+	<div class="content" id="panel4">
+		<h4>Farmdale Elementary</h4>
+		<p>[Description]</p>
+		<ul class="button-group round">
+			<li><a href="http://www.farmdalehawks.org" class="small button secondary" target="_blank">Website</a></li>
+			<!--<li><a href="#" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
+		</ul>
+		
+		
+		<h4>El Sereno Middle School</h4>
+		<p>[Description]</p>
+		<ul class="button-group round">
+			<li><a href="http://www.elserenoms.org" class="small button secondary" target="_blank">Website</a></li>
+			<!--<li><a href="#" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
+		</ul>
+		
+		
+		<h4>Wilson High School</h4>
+		<p>[Description]</p>
+		<ul class="button-group round">
+			<li><a href="http://www.wilsonmules.org" class="small button secondary" target="_blank">Website</a></li>
+			<!--<li><a href="#" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
+		</ul>
+	</div>
+	<div class="content" id="panel5">
+		<h4>Our Town El Sereno</h4>
+		<p>[Description]</p>
+		<ul class="button-group round">
+			<li><a href="http://blog.ourtownelsereno.com" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="https://www.facebook.com/pages/Our-Town-El-Sereno/355955005598" class="small button secondary" target="_blank">Facebook</a></li>
+			<!--<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
+			<li><a href="http://www.youtube.com/ourtownelserenomag" class="small button secondary" target="_blank">YouTube</a></li>
+			<li><a href="http://blog.ourtownelsereno.com/feed/
+		" class="small button secondary" target="_blank">RSS</a></li>
+		</ul>
+		
+		
+		<!--<h4>Spotlight</h4>
+		<p>[Description]</p>
+		<ul class="button-group round">
+			<li><a href="" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="#" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>
+		</ul>-->
+	</div>
+
+</div>
