@@ -1,0 +1,67 @@
+title: Eastern / Lombardy (Clearwater)
+-
+lede:
+-
+content: 
+<a name="background"></a>
+<h2>Background</h2>
+
+<p>In an October 2013 ruling, the Los Angeles Planning Commission denied plans to develop a 20 unit apartment complex, a 45,000 sq. ft. school facility and a 2,300 sq. ft. commercial building. The Commission called the plans "struggling, "disturbing", and stated they "hope the revised project will be more thoughtful." A sale of the land is now pending. Preliminary plans are to construct 43 new single-family homes across the hillside.</p>
+
+<p>El Sereno, with its open hillsides, small town character, and lack of a community plan to guide responsible growth, repeatedly falls prey to ambitious developers. Housing Developments, or ‘Master Planned Communities’ as they’re also known, can be great money makers for developers but are historically notorious for introducing a culture of divisiveness, especially in small but well-populated neighborhoods like El Sereno.</p>
+
+<p>On the parcel at Eastern and Lombardy, a housing development would stand in stark contrast to the surrounding residential properties which have developed over time to form a culturally and economically diverse community.</p>
+
+<blockquote>
+<p>"These places [housing developments] are built usually without regard to the local culture, environment or climate, so it’s always the same kind of architecture you stamp on every location."</p>
+<cite><a href="http://www.wired.com/2014/05/robert-harding-pittman-anonymization/">Robert Harding Pittman</a>, Environmental Engineer, author of <em><a href="http://www.amazon.com/Anonymization-Global-Proliferation-Urban-Sprawl/dp/3868282882">Anonymization</a></em></cite>
+</blockquote>
+
+<p>El Sereno is a well-populated urban neighborhood. Classic, successful planning for urban areas incorporates multiple small playgrounds, plazas, and parks within walking distance of residential areas, providing for both active and passive use by all ages.</p>
+
+<p>Over 20% of El Sereno’s population is age 50 or older and nearly 10% is over age 65. Studies are now beginning to shed light on barriers to park use faced by seniors. Additionally, The Trust for Public Land reports that "El Sereno... has one of the greatest concentrations of children under five in [Los Angeles] county—but not nearly enough parks or playgrounds to serve them."</p>
+
+<p>In a recent panel discussion on park accessibility hosted by the California State Parks Commission, Barbara Romero, former Chief of Urban Projects at MRCA stated the "best way to improve access is to build parks where the people are."</p>
+
+<p>The parcel at Eastern/Lombardy is well situated to serve as a neighborhood park offering not only a playground and fitness circuit, but also a community garden, hillside nature trails or other passive-use features that would benefit all members of the local community. It would fulfill different needs than those served by the adjacent sports and recreation center.</p>
+
+<p>The addition of nearly 50 new homes to this single parcel amounts to creating a segmented residential area within our existing residential area, one that "dominates rather than accommodates nature," as Wired magazine, has described housing developments.</p>
+
+<p>Instead, this community can work to create a lasting asset of this location, preserve and provide access to our natural history, and provide for our social, physical, and environmental well-being.</p>
+
+<hr />
+
+<a name="faq"></a>
+<h2>FAQ</h2>
+<h4>What's so bad about single-family homes?</h4>
+
+<p>Some people in the community have said three or four single family homes might be ok for the property and could fit with the residential neighborhood. Unfortunately, in order to pay for the property and meet their financial goals, any developer will need to build many many more houses on the site. Three or four homes would not be financially feasible and so is not a realistic possibility for the property.</p>
+
+<h4>So, what's wrong with a large housing development?</h4>
+
+<p>Housing Developments, or 'Master Planned Communities' as they're also known, can be great money makers for developers but are historically notorious for introducing a culture of divisiveness, especially in small but well-populated neighborhoods like El Sereno. The construction of nearly 50 new homes to this single parcel amounts to creating a segmented population within our existing community.</p>
+
+<p>On the parcel at Eastern and Lombardy, a housing development would stand in stark contrast to the surrounding residential properties which have developed over time to form a culturally and economically diverse community.</p>
+
+<blockquote>
+	<p>"These places [housing developments] are built usually without regard to the local culture, environment or climate, so it's always the same kind of architecture you stamp on every location."<p>
+	<cite><a href="http://www.wired.com/2014/05/robert-harding-pittman-anonymization/">Robert Harding Pittman</a>, Environmental Engineer, author of <em><a href="http://www.amazon.com/Anonymization-Global-Proliferation-Urban-Sprawl/dp/3868282882">Anonymization</a></em></cite>
+</blockquote>
+
+<h4>Won't new housing increase property values in the neighborhood?</h4>
+
+<p>Builders often say this to win support from neighboring residents. Actually, it is neighborhood and property improvements and community conveniences make a neighborhood more desirable, therefore increasing property values. An example is the recent trend of contractors purchasing foreclosed homes for renovation and resale to new buyers. As a result, prices have risen in El Sereno, Highland Park and Boyle Heights.</p>
+
+<p>These block by block improvements and gradual arrival of new neighbors is a demonstration of healthy development within the existing structure of our community. </p>
+
+<h4>Why a park across the street from a park?</h4>
+
+<p>The El Sereno recreation center, its swimming pool, playing field, skate park and sports courts is used heavily by the community for many types of active athletic activities and even private events.</p>
+
+<p>In urban areas everywhere, successful neighborhoods include many small playgrounds, plazas, and parks within walking distance of residential areas to provide for both 'active' and 'passive' use by all people, from the youngest to the oldest.</p>
+
+<p>Over 20% of El Sereno's population is age 50 or older and nearly 10% is over age 65. The Trust for Public Land reports that "El Sereno... has one of the greatest concentrations of children under five in [Los Angeles] county—but not nearly enough parks or playgrounds to serve them."</p>
+
+<p>In a recent panel discussion on park accessibility hosted by the California State Parks Commission, Barbara Romero, former Chief of Urban Projects at MRCA stated the "best way to improve access is to build parks where the people are."</p>
+
+<p>The land at Eastern/Lombardy is well situated to serve as a 'passive use' neighborhood park offering not only a playground and fitness circuit, but also a community garden, hillside nature trails or other non-athletic features that would benefit all members of the local community. It would fulfill different needs than those served by the adjacent sports and recreation center.</p>
