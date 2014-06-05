@@ -3,4 +3,8 @@ title: Eastern &amp; Lombardy Survey
 lede:
 -
 content: 
-<iframe src="https://docs.google.com/forms/d/1jmB4cEf0Fd5GT4WJHLEhKCUwH5pgro7cBLgghYEOXmQ/viewform?embedded=true" width="760" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/1jmB4cEf0Fd5GT4WJHLEhKCUwH5pgro7cBLgghYEOXmQ/viewform?embedded=true" width="760" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+
+<!--<script type="text/javascript">var submitted=false;</script>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='http://90032.org/thank-you/';}"></iframe><form action="https://docs.google.com/forms/d/1jmB4cEf0Fd5GT4WJHLEhKCUwH5pgro7cBLgghYEOXmQ/viewform?embedded=true" method="post" target="hidden_iframe" onsubmit="submitted=true;"></form>-->

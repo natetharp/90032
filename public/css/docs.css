@@ -9,14 +9,14 @@ Warm Gray		#9a8b7d
 Warm Gray 50%	#cac0b6
 
 
-   ========================================================================== */
+	 ========================================================================== */
 
 
 
 
 
 /* Footer
-   ========================================================================== */
+	 ========================================================================== */
 footer {
 background: #333;
 padding: 24px 0 10px;}
@@ -96,3 +96,173 @@ background-position: center -200px;}
 
 footer ul.social li a.mail {
 background-position: center -400px; }
+
+
+
+.signup {
+	background: url(/university/assets/university/signup-bg-2a8ce79293b32ac82705d98c34ff1338.jpg) no-repeat center top;
+	height: auto;
+	width: 100%;
+	background-size: cover;
+	padding-top: 67px;
+}
+.signup .hat-icon {
+	width: 90px;
+	height: 90px;
+	background: url(/university/assets/university/hat-icon-8d3cf66ec65f29138f53add8769d34f7.png) no-repeat center center;
+	background-size: 90px 90px;
+	position: absolute;
+	top: -112px;
+	left: 41.3%}
+.signup p {
+	color: #fff;
+	font-size: 1.5em;
+	margin-bottom: 40px;
+	font-family: "Proxima Nova", "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.signup form {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.signup input[type="text"] {
+	height: 50px;
+	background: #fff;
+	border: none;
+	border-right: #ddd 1px solid;
+	border-radius: 3px 0 0 3px;
+	padding-left: 20px;
+	font-family: "Proxima Nova", "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 1.0625em;
+	box-shadow: none;
+	float: left !important;
+}
+@media only screen and (max-width: 767px) {
+	.signup input[type="text"] {
+	border-radius: 3px;
+}
+}.signup input[type="email"] {
+	height: 50px;
+	background: #fff;
+	border: none;
+	border-radius: 0;
+	padding-left: 20px;
+	font-family: "Proxima Nova", "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 1.0625em;
+	box-shadow: none;
+	float: left !important;
+}
+@media only screen and (max-width: 767px) {
+	.signup input[type="email"] {
+	border-radius: 3px;
+}
+}.signup button {
+	height: 50px;
+	background: #e2e2e2;
+	border: none;
+	border-radius: 0 3px 3px 0;
+	box-shadow: none;
+	color: #333;
+	font-size: 1.0625em;
+	font-family: "Proxima Nova", "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin-bottom: 70px;
+}
+.signup button:hover {
+	background: #d7d7d7;
+}
+@media only screen and (max-width: 767px) {
+	.signup button {
+	border-radius: 3px;
+}
+}.signup .signup-success {
+	display: none;
+}
+.signup .signup-success p {
+	font-family: "Proxima Nova", "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: italic;
+	margin-bottom: 82px;
+}
+
+
+
+
+
+
+
+
+
+
+
+#homepage-hero	{
+	text-align:left;
+	min-height:500px;
+	position:relative;
+	padding:100px 20px 0 20px;
+	
+
+background-position: center bottom; padding:100px 0 110px; background-repeat: no-repeat; background-color: #13A7C7;
+background-image: url("../img/hero-bg-01.jpg"); /*opacity: 0.8; filter: alpha(opacity=80);*/}
+
+
+}
+
+@media screen and (max-width: 768px)	{
+	#homepage-hero	{
+		padding:40px 5px 30px 5px;}
+}
+
+@media screen and (max-width: 1024px)	{
+	#homepage-hero	{
+		height:500px;}
+}
+#homepage-hero h1	{
+	font-size:4em;
+	color:white;
+	font-weight:500;
+	margin-bottom:0;
+	line-height:100%;
+}
+
+@media screen and (max-width:768px)	{
+	#homepage-hero h1	{
+		font-size:50px;}
+}
+
+#homepage-hero h4	{
+	font-size:1.35em;
+	color:white;
+	font-weight:300;
+}
+
+#homepage-hero h3	{
+	color:white;}
+
+@media screen and (max-width:768px)	{
+	#homepage-hero h3	{
+		font-size:18px;
+		line-height:28px;}
+}
+
+#homepage-hero .floatingyeti img	{
+	max-width:50%;
+	position:absolute;
+	right:100px;
+	top:30px;
+}
+
+@media only screen and (max-width:40em)	{
+	#homepage-hero .floatingyeti img	{
+		width:100%;
+		position:relative;
+		right:0;
+		bottom:0px;
+		top:0px;
+		left:120px;}
+}
+
+@media only screen and (min-width: 40.063em) and (max-width:64em)	{
+	#homepage-hero .floatingyeti img	{
+		width:100%;
+		position:absolute;
+		right:0;
+		bottom:0px;}
+}

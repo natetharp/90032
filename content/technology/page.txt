@@ -41,3 +41,14 @@ content:
 	<li><a href="http://itunes.apple.com/us/app/localcrime/id639384395?mt=8" class="small button secondary" target="_blank">iOS</a></li>
 	<!--<li><a href="#" class="small button secondary">Android</a></li>-->
 </ul>
+
+
+<h4>Services Locator</h4>
+<p>The Services Locator is a part of the LA County website that helps you find facilities and services in your area such as parks and nature areas, police stations and government offices, support groups and shelters, and public transportation stops.</p>
+
+<ul class="button-group round">
+	<li><a href="http://maps.lacounty.gov" class="small button secondary" target="_blank">Website</a></li>
+	<!--<li><a href="#" class="small button secondary">iOS</a></li>
+	<li><a href="#" class="small button secondary">Android</a></li>-->
+</ul>
+
