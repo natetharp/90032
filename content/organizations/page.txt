@@ -92,23 +92,19 @@ content:
 		
 		<li><a href="mailto: walkeaglerock@gmail.com" class="small button secondary" target="_blank">Email</a></li>
 		</ul>
+	
+	
 	</div>
 	<div class="content" id="panel2">
-		<h4>Living Streets LA</h4>
-		<p>[Description]</p>
-		<ul class="button-group round">
-			<li><a href="http://www.livingstreetsla.org" class="small button secondary" target="_blank">Website</a></li>
-			<!--<li><a href="#" class="small button secondary" target="_blank">Facebook</a></li>
-			<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
-		</ul>
+				
 		
-		
-		<h4>Los Angeles Neighborhood Land Trust</h4>
-		<p>[Description]</p>
+		<h4>CLAW (Citizens For Los Angeles Wildlife)</h4>
+		<p>CLAW works to protect and restore the environments of wildlife of Los Angeles and California from dwindling open spaces. Their mission is to promote, educate and protect the fundamental importance of wildlife, wildlife habitats and wildlife corridors.</p>
 		<ul class="button-group round">
-			<li><a href="http://www.lanlt.org" class="small button secondary" target="_blank">Website</a></li>
-			<li><a href="https://www.facebook.com/LANeighborhoodLandTrust" class="small button secondary" target="_blank">Facebook</a></li>
-			<li><a href="https://twitter.com/LANLT" class="small button secondary" target="_blank">Twitter</a></li>
+			<li><a href="http://www.clawonline.org" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="https://www.facebook.com/CitizensForLosAngelesWildlife" class="small button secondary" target="_blank">Facebook</a></li>
+			<!--<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
+			<li><a href="mailto:info@clawonline.org" class="small button secondary" target="_blank">Email</a></li>
 		</ul>
 		
 		
@@ -121,13 +117,25 @@ content:
 		</ul>
 		
 		
-		<h4>RePower LA</h4>
+		<h4>Cultivate Los Angeles</h4>
 		<p>[Description]</p>
 		<ul class="button-group round">
-			<li><a href="http://www.repowerla.org" class="small button secondary" target="_blank">Website</a></li>
-			<li><a href="https://www.facebook.com/RePowerLA" class="small button secondary" target="_blank">Facebook</a></li>
-			<!--<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
-			<li><a href="http://www.repowerla.org/?feed=rss2" class="small button secondary" target="_blank">RSS</a></li>
+			<li><a href="http://cultivatelosangeles.org" class="small button secondary" target="_blank">Website</a></li>
+			<!--<li><a href="#" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
+			<li><a href="http://cultivatelosangeles.org/feed/" class="small button secondary" target="_blank">RSS</a></li>
+			
+		</ul>
+
+
+		<h4>From Lot to Spot</h4>
+		<p>[Description]</p>
+		<ul class="button-group round">
+			<li><a href="http://fromlottospot.org" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="https://www.facebook.com/pages/From-Lot-to-Spot/403576695954" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="https://twitter.com/fromlottospot" class="small button secondary" target="_blank">Twitter</a></li>
+			<li><a href="info@fromlottospot.org" class="small button secondary" target="_blank">Email</a></li>
+			
 		</ul>
 		
 		
@@ -148,18 +156,37 @@ content:
 			<li><a href="http://twitter.com/lafund" class="small button secondary" target="_blank">Twitter</a></li>
 			<li><a href="mailto:info@lafund.org" class="small button secondary" target="_blank">Email</a></li>
 			<li><a href="http://instagram.com/lafund" class="small button secondary" target="_blank">Instagram</a></li>				
-		</ul>									
+		</ul>
 		
 		
-		<h4>Cultivate Los Angeles</h4>
+		<h4>Living Streets LA</h4>
 		<p>[Description]</p>
 		<ul class="button-group round">
-			<li><a href="http://cultivatelosangeles.org" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="http://www.livingstreetsla.org" class="small button secondary" target="_blank">Website</a></li>
 			<!--<li><a href="#" class="small button secondary" target="_blank">Facebook</a></li>
 			<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
-			<li><a href="e" class="small button secondary" target="_blank">RSS</a></li>
-			
 		</ul>
+		
+		
+		<h4>Los Angeles Neighborhood Land Trust</h4>
+		<p>[Description]</p>
+		<ul class="button-group round">
+			<li><a href="http://www.lanlt.org" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="https://www.facebook.com/LANeighborhoodLandTrust" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="https://twitter.com/LANLT" class="small button secondary" target="_blank">Twitter</a></li>
+		</ul>
+		
+		
+		<h4>RePower LA</h4>
+		<p>[Description]</p>
+		<ul class="button-group round">
+			<li><a href="http://www.repowerla.org" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="https://www.facebook.com/RePowerLA" class="small button secondary" target="_blank">Facebook</a></li>
+			<!--<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
+			<li><a href="http://www.repowerla.org/?feed=rss2" class="small button secondary" target="_blank">RSS</a></li>
+		</ul>
+		
+		
 	</div>
 	<div class="content" id="panel3">
 		<h4>LA-32 Neighborhood Council</h4>

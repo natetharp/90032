@@ -1,0 +1,27 @@
+title: 710 Freeway Extension
+-
+lede:
+-
+content: 
+<img src="/public/img/huntington-collis-20140513-lg.jpg" alt="" />
+
+<a name="background"></a>
+<h2>Background</h2>
+
+<hr />
+
+<a name="faq"></a>
+<h2>FAQ</h2>
+
+<hr />
+
+<a name="faq"></a>
+<h2>Resources</h2>
+
+http://p2.sr710.v6.metroquest.com [English]
+http://esp.sr710.metroquest.com [Español]
+
+http://www.metro.net/projects/sr-710-conversations/
+
+http://www.710coalition.com [Pro]
+http://www.no710.com [Anti]
