@@ -83,11 +83,12 @@ In urban areas everywhere, successful neighborhoods include many small playgroun
 <p>Contact Council District 14 staff now to let them know whether you support adding over 40 homes to the hillsides at Eastern and Lombardy.</p>
 
 <ul>
-	<li>Call the City Hall Office at (213) 473-7014</li>
-	<li>Call El Sereno's Area Office at (323) 226-1646</li>
-	<li>Email Councilman Huizar at <a href="mailto:councilmember.huizar@lacity.org" title="Email Councilman Huizar">councilmember.huizar@lacity.org</a></li>
-	<li>Email the Councilman's Chief of Staff, Paul Habib, at <a href="mailto:paul.habib@lacity.org" title="Email Councilman's Chief of Staff, Paul Habib">paul.habib@lacity.org</li>
-	<li>Email CD14 Planning Director, Tanner Blackman, <a href="mailto:tanner.blackman@lacity.or" title="Email CD14 Planning Director">tanner.blackman@lacity.org</a></li>
+	<li>Call the City Hall Office, (213) 473-7014</li>
+	<li>Call El Sereno's Area Office, (323) 226-1646</li>
+	<li>Email Councilman Huizar, <a href="mailto:councilmember.huizar@lacity.org" title="Email Councilman Huizar">councilmember.huizar@lacity.org</a></li>
+	<li>Email the Councilman's Chief of Staff, Paul Habib, <a href="mailto:paul.habib@lacity.org" title="Email Councilman's Chief of Staff, Paul Habib">paul.habib@lacity.org</li>
+	<li>Email CD14 Planning Director, Tanner Blackman, <a href="mailto:tanner.blackman@lacity.org" title="Email CD14 Planning Director">tanner.blackman@lacity.org</a></li>
+	<li>Email the LA-32 Neighborhood Council, <a href="mailto:board@la32nc.org" title="Email LA-32 Neighborhood Council">board@la32nc.org</a></li>
 </ul>
 
 <p>For more informaion on how to contact the CD14 staff, check out our Guide to <em><a href="/contacting-officials/">Contacting Government Officials</a></em>.</p>

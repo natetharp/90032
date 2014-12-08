@@ -3,11 +3,7 @@ title: Elections
 lede: Learn more about the upcoming elections impacting our area
 -
 content:
-<p><small>Note: Preserve El Sereno does not endorse or support any candidate</small></p>
-
-<hr/>
-
-<h4>Los Angeles City Council District 14 - 2014</h4>
+<h4>Los Angeles City Council District 14 - 2015</h4>
 <p><strong>Primary Nominating Election:</strong> Tuesday, March 3, 2015<br />
 <strong>General Municipal Election:</strong> Tuesday, May 19, 2015</p>
 
@@ -17,7 +13,7 @@ content:
 	
 	
 	<div class="row">
-		<div class="large-3 columns small-2"><img src="http://placehold.it/200x250&text=[img]"/></div>
+		<div class="large-3 columns small-2"><img src="/img/mug-chavez.jpg"/></div>
 		<div class="large-9 columns">
 			
 			<h3>Mario Chavez</h3>
@@ -62,7 +58,7 @@ content:
 	
 	
 	<div class="row">
-		<div class="large-3 columns small-2"><img src="http://placehold.it/200x250&text=[img]"/></div>
+		<div class="large-3 columns small-2"><img src="/img/mug-huizar.jpg"/></div>
 		<div class="large-9 columns">
 			<h3>José Huizar</h3>
 			<h5>Member of the Los Angeles City Council representing District 14</h5>
@@ -87,11 +83,11 @@ content:
 
 
 	<div class="row">
-		<div class="large-3 columns small-2"><img src="http://placehold.it/200x250&text=[img]"/></div>
+		<div class="large-3 columns small-2"><img src="/img/mug-molina.jpg"/></div>
 		<div class="large-9 columns">
 			
 			<h3>Gloria Molina</h3>
-			<h5>Member of the Los Angeles County Board of Supervisors</h5>
+			<h5>Former member of the Los Angeles County Board of Supervisors</h5>
 			
 			<ul class="inline-list">
 				<li><a href="https://en.wikipedia.org/wiki/Gloria_Molina">Wikipedia</a></li>
@@ -134,6 +130,8 @@ content:
 		</div>
 	</div>
 	
+	<hr/>
 	
+	<p><small>Note: Preserve El Sereno does not endorse or support any candidate</small></p>
 
 </div>
