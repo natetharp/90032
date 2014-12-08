@@ -1,0 +1,139 @@
+title: Elections
+-
+lede: Learn more about the upcoming elections impacting our area
+-
+content:
+<p><small>Note: Preserve El Sereno does not endorse or support any candidate</small></p>
+
+<hr/>
+
+<h4>Los Angeles City Council District 14 - 2014</h4>
+<p><strong>Primary Nominating Election:</strong> Tuesday, March 3, 2015<br />
+<strong>General Municipal Election:</strong> Tuesday, May 19, 2015</p>
+
+<hr/>
+
+<div class="large-16 columns">
+	
+	
+	<div class="row">
+		<div class="large-3 columns small-2"><img src="http://placehold.it/200x250&text=[img]"/></div>
+		<div class="large-9 columns">
+			
+			<h3>Mario Chavez</h3>
+			<h5>Director of Community Relations at St. John's Well Child &amp; Family Center</h5>
+			
+			<ul class="inline-list">
+				<li><a href="http://www.mariochavezforla2015.com">Website</a></li>
+				<li><a href="https://www.facebook.com/MarioChavez4LA2015">Facebook</a></li>
+				<li><a href="mailto:MarioChavezforLA2015@gmail.com ">Email</a></li>
+				<li>Tel: (213) 974-4111</li>
+			</ul>
+			
+			<!--<h4>Clean Campaigns</h4>
+			<p>Has Mr. Chavez sworn off campaign contributions from developers? <strong><span style="color:red;">No.</span></strong></p>
+			<p>Has Mr. Chavez returned all campaign contributions from developers he may have already received? <strong><span style="color:red;">No.</span></strong></p>-->
+		</div>
+	</div>
+	
+	<hr/>
+	
+	
+	<div class="row">
+		<div class="large-3 columns small-2"><img src="http://placehold.it/200x250&text=[img]"/></div>
+		<div class="large-9 columns">
+			
+			<h3>Nadine Diaz</h3>
+			<h5>Clinical Social Worker at the California Hospital Medical Center</h5>
+			
+			<ul class="inline-list">
+				<li><a href="http://www.nadinediaz.com">Website</a></li>
+				<li><a href="mailto:nadine@nadinediaz.com">Email</a></li>
+				<li>Tel: (323) 799-6167</li>
+			</ul>
+			
+			<!--<h4>Clean Campaigns</h4>
+			<p>Has Ms. Diaz sworn off campaign contributions from developers? <strong><span style="color:red;">No.</span></strong></p>
+			<p>Has Ms. Diaz returned all campaign contributions from developers she may have already received? <strong><span style="color:red;">No.</span></strong></p>-->
+		</div>
+	</div>
+	
+	<hr/>
+	
+	
+	<div class="row">
+		<div class="large-3 columns small-2"><img src="http://placehold.it/200x250&text=[img]"/></div>
+		<div class="large-9 columns">
+			<h3>José Huizar</h3>
+			<h5>Member of the Los Angeles City Council representing District 14</h5>
+						
+			<ul class="inline-list">
+				<li><a href="https://en.wikipedia.org/wiki/Jos%C3%A9_Huizar">Wikipedia</a></li>
+				<li><a href="http://www.josehuizar.com">Website</a></li>
+				<li><a href="https://www.facebook.com/jose.huizar.58">Facebook</a></li>
+				<li><a href="https://twitter.com/josehuizar">Twitter</a></li>
+				<li><a href="mailto:councilmember.huizar@lacity.org">Email</a></li>
+				<li>Tel: (213) 473-7014</li>
+				<li>Tel: (323) 226-1646</a></li>
+			</ul>
+			
+			<!--<h4>Clean Campaigns</h4>
+			<p>Has Councilman Huizar sworn off campaign contributions from developers? <strong><span style="color:red;">No.</span></strong></p>
+			<p>Has Councilman Huizar returned all campaign contributions from developers he may have already received? <strong><span style="color:red;">No.</span></strong></p>-->
+		</div>
+	</div>
+	
+	<hr/>
+
+
+	<div class="row">
+		<div class="large-3 columns small-2"><img src="http://placehold.it/200x250&text=[img]"/></div>
+		<div class="large-9 columns">
+			
+			<h3>Gloria Molina</h3>
+			<h5>Member of the Los Angeles County Board of Supervisors</h5>
+			
+			<ul class="inline-list">
+				<li><a href="https://en.wikipedia.org/wiki/Gloria_Molina">Wikipedia</a></li>
+				<li><a href="http://www.molinaforcitycouncil.com">Website</a></li>
+				<li><a href="https://www.facebook.com/GloriaMolina48">Facebook</a></li>
+				<li><a href="https://twitter.com/MolinaForCD14">Twitter</a></li>
+				<li><a href="mailto:info@molinaforcitycouncil.com">Email</a></li>
+				<li>Tel: (323) 419-9360</li>
+			</ul>
+			
+			<!--<h4>Clean Campaigns</h4>
+			<p>Has Supervisor Molina sworn off campaign contributions from developers? <strong><span style="color:red;">No.</span></strong></p>
+			<p>Has Supervisor Molina returned all campaign contributions from developers she may have already received? <strong><span style="color:red;">No.</span></strong></p>-->
+		</div>
+	</div>
+		
+	<hr/>	
+
+
+	<div class="row">
+		<div class="large-3 columns small-2"><img src="http://placehold.it/200x250&text=[img]"/></div>
+		<div class="large-9 columns">
+			
+			<h3>Alex San Martin</h3>
+			<h5>Southern Administrative Coordinator with the California Democratic Party Chicano Latino Caucus</h5>
+			
+			<ul class="inline-list">
+				<li><a href="https://en.wikipedia.org/wiki/Gloria_Molina">Wikipedia</a></li>
+				<li><a href="http://www.sanmartinfor2015.com">Website</a></li>
+				<li><a href="https://www.facebook.com/pages/Alex-San-Martin-for-Los-Angeles-City-Council-District-14/744456708899235">Facebook</a></li>
+				<li><a href="https://twitter.com/sanmartin2015">Twitter</a></li>
+				
+				
+				<li>Tel: (213) 401-5164</li>
+			</ul>
+			
+			<!--<h4>Clean Campaigns</h4>
+			<p>Has Mr. San Martin sworn off campaign contributions from developers? <strong><span style="color:red;">No.</span></strong></p>
+			<p>Has Mr. San Martin returned all campaign contributions from developers he may have already received? <strong><span style="color:red;">No.</span></strong></p>-->
+		</div>
+	</div>
+	
+	
+
+</div>
