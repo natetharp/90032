@@ -21,12 +21,12 @@ content:
 <ul>
 <li>Promote low-density residential land use</li>
 <li>Conserve open space and ecologically important areas</li>
-<li>Cultural resources?</li>
-<li>Historical sites and landmarks? (ES Historical Society)</li>
+<li>Promote local cultural resources?</li>
+<li>Raise awareness of historical sites and landmarks</li>
 </ul>
 
 <h4>Community Involvement:</h4>
 <ul>
-<li>Encourage residents to undertake their own safety, beautification and responsible development actions.</li>
+<li>Encourage residents to undertake their own safety, beautification and responsible development actions</li>
 <li>Facilitate community events</li>
 </ul>

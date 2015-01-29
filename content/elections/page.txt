@@ -17,7 +17,7 @@ content:
 		<div class="large-9 columns">
 			
 			<h3>Mario Chavez</h3>
-			<h5>Director of Community Relations at St. John's Well Child &amp; Family Center</h5>
+			<h5>Activist/Union Organizer</h5>
 			
 			<ul class="inline-list">
 				<li><a href="http://www.mariochavezforla2015.com">Website</a></li>
@@ -26,9 +26,11 @@ content:
 				<li>Tel: (213) 974-4111</li>
 			</ul>
 			
-			<!--<h4>Clean Campaigns</h4>
-			<p>Has Mr. Chavez sworn off campaign contributions from developers? <strong><span style="color:red;">No.</span></strong></p>
-			<p>Has Mr. Chavez returned all campaign contributions from developers he may have already received? <strong><span style="color:red;">No.</span></strong></p>-->
+			<h4>Clean Campaigns</h4>
+			<p>Has Mr. Chavez sworn off campaign contributions from developers? <strong><span style="color:green;">yes.</span></strong></p>
+			<p>Has Mr. Chavez returned all campaign contributions from developers he may have already received? <strong><span style="color:green;">Yes.</span></strong></p>
+			
+			<p>Mario Chavez interview on Soul Rebel Radio regarding responsible development: <a href="https://clyp.it/s2rjhp4k">https://clyp.it/s2rjhp4k</a></p>
 		</div>
 	</div>
 	
@@ -48,9 +50,11 @@ content:
 				<li>Tel: (323) 799-6167</li>
 			</ul>
 			
-			<!--<h4>Clean Campaigns</h4>
-			<p>Has Ms. Diaz sworn off campaign contributions from developers? <strong><span style="color:red;">No.</span></strong></p>
-			<p>Has Ms. Diaz returned all campaign contributions from developers she may have already received? <strong><span style="color:red;">No.</span></strong></p>-->
+			<h4>Clean Campaigns</h4>
+			<p>Has Ms. Diaz sworn off campaign contributions from developers? <strong><span style="color:green;">Yes.</span></strong></p>
+			<p>Has Ms. Diaz returned all campaign contributions from developers she may have already received? <strong><span style="color:green;">Yes.</span></strong></p>
+			
+			<p>Nadine Diaz <a href="https://www.facebook.com/NadineDiazforCD14/posts/927039540654385">statement on developer election contributions</a></p>
 		</div>
 	</div>
 	
@@ -83,6 +87,28 @@ content:
 
 
 	<div class="row">
+		<div class="large-3 columns small-2"><img src="/img/mug-huizar.jpg"/></div>
+		<div class="large-9 columns">
+			<h3>John O'Neill</h3>
+			<h5>Community Political Consultant</h5>
+						
+			<ul class="inline-list">
+				<li><a href="http://www.votejohnoneill.com">Website</a></li>
+				<li><a href="https://www.facebook.com/VoteJohnONeill">Facebook</a></li>
+				<li><a href="https://twitter.com/VoteJohnONeill">Twitter</a></li>
+				<li><a href="mailto:">Email</a></li>
+			</ul>
+			
+			<!--<h4>Clean Campaigns</h4>
+			<p>Has Mr. O'Neill sworn off campaign contributions from developers? <strong><span style="color:red;">No.</span></strong></p>
+			<p>Has Mr. O'Neill returned all campaign contributions from developers he may have already received? <strong><span style="color:red;">No.</span></strong></p>-->
+		</div>
+	</div>
+	
+	<hr/>
+
+
+	<div class="row">
 		<div class="large-3 columns small-2"><img src="/img/mug-molina.jpg"/></div>
 		<div class="large-9 columns">
 			
@@ -107,7 +133,7 @@ content:
 	<hr/>	
 
 
-	<div class="row">
+	<!--<div class="row">
 		<div class="large-3 columns small-2"><img src="http://placehold.it/200x250&text=[img]"/></div>
 		<div class="large-9 columns">
 			
@@ -115,22 +141,19 @@ content:
 			<h5>Southern Administrative Coordinator with the California Democratic Party Chicano Latino Caucus</h5>
 			
 			<ul class="inline-list">
-				<li><a href="https://en.wikipedia.org/wiki/Gloria_Molina">Wikipedia</a></li>
 				<li><a href="http://www.sanmartinfor2015.com">Website</a></li>
 				<li><a href="https://www.facebook.com/pages/Alex-San-Martin-for-Los-Angeles-City-Council-District-14/744456708899235">Facebook</a></li>
 				<li><a href="https://twitter.com/sanmartin2015">Twitter</a></li>
-				
-				
 				<li>Tel: (213) 401-5164</li>
 			</ul>
 			
-			<!--<h4>Clean Campaigns</h4>
+			<h4>Clean Campaigns</h4>
 			<p>Has Mr. San Martin sworn off campaign contributions from developers? <strong><span style="color:red;">No.</span></strong></p>
-			<p>Has Mr. San Martin returned all campaign contributions from developers he may have already received? <strong><span style="color:red;">No.</span></strong></p>-->
+			<p>Has Mr. San Martin returned all campaign contributions from developers he may have already received? <strong><span style="color:red;">No.</span></strong></p>
 		</div>
 	</div>
 	
-	<hr/>
+	<hr/>-->
 	
 	<p><small>Note: Preserve El Sereno does not endorse or support any candidate</small></p>
 

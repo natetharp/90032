@@ -4,28 +4,37 @@ lede: The Eastern &amp; Lombardy project isn't the only one impacting our area
 -
 content:
 <h3>Eastern at Lombardy - Clearwater Properties</h3>
+<h5><em>2014-2015</em></h5>
 <h4><a href="/land-use/eastern-lombardy-clearwater/#background">Background</a> and <a href="/land-use/eastern-lombardy-clearwater/#faq">FAQ</a></h4>
 <h4><a href="/petition/">Sign the Petition</a></h4>
 <h4><a href="/land-use/eastern-lombardy-clearwater/#contact">Who to Contact</a></h4>
+<h4><a href="/land-use/eastern-lombardy-clearwater/#videos">Videos of Public Meetings</a></h4>
 <!--<h4>Calendar</h4>
 <h4>Documents and Resources</h4>-->
 
 <hr />
 
-<h3>Eastern at Lombardy - Bancomer Construction</h3>
-<h4><a href="/eastern-lombardy/">Background</a> and <a href="/eastern-lombardy/faq.html">FAQ</a></h4>
-<h4><a href="/eastern-lombardy/#documents">Documents</a> and <a href="/eastern-lombardy/">Resources</a></h4>
+<h3>Onyx Street Subdivision</h3>
+<p>2730 N. Onyx Street<br />
+Los Angeles, CA 90032</p>
+
+<p>Proposed is a rezoning of 4.4 acres of R1 hilltop to R5 to accomodate 39 houses utilizing the Small Lot Subdivision Ordinance.</p> 
+
+<h6>Links:</h6>
+<ul>
+	<li><a href="/docs/onyx-zoning-application-apce-2014-3178.pdf" title="" target="_blank">Zone Change Application [PDF]</a></li>
+	<li><a href="/docs/onyx-tract-map.pdf" title="" target="_blank">Project Tract Map [PDF]</a></li>
+	<li><a href="/docs/onyx-detailed-tract-map.pdf" title="" target="_blank">Detailed Project Tract Map [PDF]</a></li>
+</ul>
 
 <hr />
 
 <h3>Huntington Drive at Collis Street</h3>
 <p>4675 E. Huntington Drive South<br />
 Los Angeles, CA 90032</p>
-</p>
+
 <h4><a href="/land-use/huntington-collis/#background">Background</a> and <a href="/land-use/huntington-collis/#faq">FAQ</a></h4>
-<h4>Documents and Resources</h4>
-<h4>Who to Contact</h4>
-<h4>Calendar</h4>
+
 
 <hr />
 
@@ -40,8 +49,6 @@ Los Angeles, CA 90032</p>
 </ul>
 <!--<h6>Additional info:</h6>
 <p><a href="http://www.elserenohistoricalsociety.org/El_Sereno__P___E_RR.php" title="" target="_blank">El Sereno Historical Society</a></p>-->
-<h4>Who to Contact</h4>
-<h4>Calendar</h4>
 <h6>Next Meeting:</h6>
 <p><strong>Soto Street Bridge Community Briefing</strong><br />
 Thursday, August 14, 2013, 6:00pm - 8:00pm<br />
@@ -49,8 +56,12 @@ El Sereno Senior Center<br />
 4818 Klamath Path<br />
 Los Angeles, CA 90032</p>
 
+<hr />
 
-
+<h3>Eastern at Lombardy - Bancomer Construction</h3>
+<h5><em>2013</em></h5>
+<h4><a href="/eastern-lombardy/">Background</a> and <a href="/eastern-lombardy/faq.html">FAQ</a></h4>
+<h4><a href="/eastern-lombardy/#documents">Documents</a> and <a href="/eastern-lombardy/">Resources</a></h4>
 
 <hr />
 
