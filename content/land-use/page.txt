@@ -33,7 +33,16 @@ Los Angeles, CA 90032</p>
 <p>4675 E. Huntington Drive South<br />
 Los Angeles, CA 90032</p>
 
-<h4><a href="/land-use/huntington-collis/#background">Background</a> and <a href="/land-use/huntington-collis/#faq">FAQ</a></h4>
+<img src="/public/img/huntington-collis-20140513-lg.jpg" alt="" />
+
+<!--<h4><a href="/land-use/huntington-collis/#background">Background</a> and <a href="/land-use/huntington-collis/#faq">FAQ</a></h4>-->
+
+<h6>Links:</h6>
+<ul>
+	<li><a href="/docs/collis-project-plans.pdf" title="" target="_blank">Project Plans [PDF]</a></li>
+	<li><a href="/docs/collis-mnd-env-2014-1116.pdf" title="" target="_blank">Mitigated Negative Declarations [PDF]</a></li>
+	<li><a href="/docs/collis-conditional-use-application.pdf" title="" target="_blank">Conditional Use Application [PDF]</a></li>
+</ul>
 
 
 <hr />

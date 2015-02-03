@@ -3,7 +3,6 @@ title: Huntington / Collis
 lede:
 -
 content: 
-<img src="/public/img/huntington-collis-20140513-lg.jpg" alt="" />
 
 <a name="background"></a>
 <h2>Background</h2>
