@@ -26,7 +26,7 @@ content:
 		<h4>The El Sereno Bungalows Collective</h4>
 		<p>[Description]</p>
 		<ul class="button-group round">
-			<li><a href="www.indiegogo.com/everythingforeveryone" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="https://www.indiegogo.com/everythingforeveryone" class="small button secondary" target="_blank">Website</a></li>
 			<li><a href="https://www.facebook.com/ElSerenoBungalows" class="small button secondary" target="_blank">Facebook</a></li>
 			<li><a href="https://twitter.com/ElSerenoBungalo" class="small button secondary" target="_blank">Twitter</a></li>
 		</ul>
@@ -134,7 +134,7 @@ content:
 			<li><a href="http://fromlottospot.org" class="small button secondary" target="_blank">Website</a></li>
 			<li><a href="https://www.facebook.com/pages/From-Lot-to-Spot/403576695954" class="small button secondary" target="_blank">Facebook</a></li>
 			<li><a href="https://twitter.com/fromlottospot" class="small button secondary" target="_blank">Twitter</a></li>
-			<li><a href="info@fromlottospot.org" class="small button secondary" target="_blank">Email</a></li>
+			<li><a href="mailto:info@fromlottospot.org" class="small button secondary" target="_blank">Email</a></li>
 			
 		</ul>
 		
@@ -283,8 +283,7 @@ content:
 			<li><a href="https://www.facebook.com/pages/Our-Town-El-Sereno/355955005598" class="small button secondary" target="_blank">Facebook</a></li>
 			<!--<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
 			<li><a href="http://www.youtube.com/ourtownelserenomag" class="small button secondary" target="_blank">YouTube</a></li>
-			<li><a href="http://blog.ourtownelsereno.com/feed/
-		" class="small button secondary" target="_blank">RSS</a></li>
+			<li><a href="http://blog.ourtownelsereno.com/feed/" class="small button secondary" target="_blank">RSS</a></li>
 		</ul>
 		
 		

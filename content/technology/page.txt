@@ -17,7 +17,7 @@ content:
 <p>With MyLA311, City of Los Angeles information and services are just a few taps away.</p>
 
 <ul class="button-group round">
-	<li><a href="http://www.lacity.org/MyLA311/" class="small button secondary" target="_blank">Website</a></li>
+	<li><a href="http://www.lacity.org/myla-311-smartphone-mobile-application" class="small button secondary" target="_blank">Website</a></li>
 	<li><a href="https://itunes.apple.com/us/app/myla311/id611079486" class="small button secondary" target="_blank">iOS</a></li>
 	<li><a href="https://play.google.com/store/apps/details?id=com.LA.MyLA311" class="small button secondary" target="_blank">Android</a></li>
 </ul>
