@@ -250,34 +250,43 @@ content:
 	</div>
 	<div class="content" id="panel4">
 		<h4>Farmdale Elementary</h4>
-		<p>[Description]</p>
+		<p>Farmdale Elementary School is a Los Angeles Unified School District and International Baccalaureate World school in El Sereno for students in pre-kindergarten, kindergarten, and grades one through five.</p>
 		<ul class="button-group round">
 			<li><a href="http://www.farmdalehawks.org" class="small button secondary" target="_blank">Website</a></li>
-			<!--<li><a href="#" class="small button secondary" target="_blank">Facebook</a></li>
-			<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
+			<li><a href="https://www.facebook.com/FarmdaleElementary" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="https://twitter.com/FarmdaleHawks" class="small button secondary" target="_blank">Twitter</a></li>
 		</ul>
 		
 		
 		<h4>El Sereno Middle School</h4>
-		<p>[Description]</p>
+		<p>El Sereno Middle School is a Los Angeles Unified School District junior high school in El Sereno for students in grades six, seven, and eight.</p>
 		<ul class="button-group round">
 			<li><a href="http://www.elserenoms.org" class="small button secondary" target="_blank">Website</a></li>
-			<!--<li><a href="#" class="small button secondary" target="_blank">Facebook</a></li>
-			<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
+			<li><a href="https://www.facebook.com/pages/El-Sereno-Middle-School/177501695650165" class="small button secondary" target="_blank">Facebook</a></li>
+			<!--<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
 		</ul>
 		
 		
 		<h4>Wilson High School</h4>
-		<p>[Description]</p>
+		<p>Woodrow Wilson High School is a Los Angeles Unified School District high school in El Sereno that opened in 1970.</p>
 		<ul class="button-group round">
 			<li><a href="http://www.wilsonmules.org" class="small button secondary" target="_blank">Website</a></li>
-			<!--<li><a href="#" class="small button secondary" target="_blank">Facebook</a></li>
-			<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
+			<li><a href="https://www.facebook.com/pages/Woodrow-Wilson-High-School-Los-Angeles/123522124327163" class="small button secondary" target="_blank">Facebook</a></li>
+			<!--<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
 		</ul>
 	</div>
 	<div class="content" id="panel5">
+		<h4>Community Beacon</h4>
+		<p>A free, bilingual, monthly community news and information publication serving the El Sereno and Lincoln Heights communities.</p>
+		<ul class="button-group round">
+			<li><a href="http://communitybeacon.tumblr.com" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="https://www.facebook.com/TheCommunityBeacon" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="http://communitybeacon.tumblr.com/rss" class="small button secondary" target="_blank">RSS</a></li>
+		</ul>
+		
+		
 		<h4>Our Town El Sereno</h4>
-		<p>[Description]</p>
+		<p>A local magazine profiling people and items of interest in and around El Sereno.</p>
 		<ul class="button-group round">
 			<li><a href="http://blog.ourtownelsereno.com" class="small button secondary" target="_blank">Website</a></li>
 			<li><a href="https://www.facebook.com/pages/Our-Town-El-Sereno/355955005598" class="small button secondary" target="_blank">Facebook</a></li>
