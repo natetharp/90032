@@ -168,6 +168,17 @@ content:
 		</ul>
 		
 		
+		<h4>LA Neighborhood Land Trust</h4>
+		<p>The Los Angeles Fund for Public Education was formed in the summer of 2011 by LAUSD Superintendent John Deasy and philanthropist Megan Chernin.</p>
+		<ul class="button-group round">
+			<li><a href="http://www.lanlt.org" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="https://www.facebook.com/LANeighborhoodLandTrust" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="https://twitter.com/LANLT" class="small button secondary" target="_blank">Twitter</a></li>
+			<li><a href="mailto:info@lanlt.org" class="small button secondary" target="_blank">Email</a></li>
+			<li><a href="http://instagram.com/thelanlt" class="small button secondary" target="_blank">Instagram</a></li>	
+		</ul>
+		 
+		
 		<h4>Living Streets LA</h4>
 		<p>[Description]</p>
 		<ul class="button-group round">
