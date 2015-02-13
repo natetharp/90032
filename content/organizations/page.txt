@@ -118,7 +118,7 @@ content:
 		
 		
 		<h4>Council for Watershed Health</h4>
-		<p>[Description]</p>
+		<p>The Watershed Council is an organization that objectively and reliably connects the diverse water community in Los Angeles through applied research and analysis in order to influence public policy in pursuit of watershed health. Their mission is to enhance the economic, social, and ecological health of the region's watersheds.</p>
 		<ul class="button-group round">
 			<li><a href="http://watershedhealth.org" class="small button secondary" target="_blank">Website</a></li>
 			<li><a href="https://www.facebook.com/CouncilforWatershedHealth" class="small button secondary" target="_blank">Facebook</a></li>

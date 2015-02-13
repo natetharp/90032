@@ -17,20 +17,20 @@ content:
 		<div class="large-9 columns">
 			
 			<h3>Mario Chavez</h3>
-			<h5>Activist/Union Organizer</h5>
+			<h6>Activist/Union Organizer</h6>
 			
-			<ul class="inline-list">
-				<li><a href="http://www.mariochavezforla2015.com">Website</a></li>
-				<li><a href="https://www.facebook.com/MarioChavez4LA2015">Facebook</a></li>
-				<li><a href="mailto:MarioChavezforLA2015@gmail.com ">Email</a></li>
-				<li>Tel: (213) 974-4111</li>
-			</ul>
+			<dl class="sub-nav">
+				<dd><a href="http://www.mariochavezforla2015.com">Website</a></dd>
+				<dd><a href="https://www.facebook.com/MarioChavez4LA2015">Facebook</a></dd>
+				<dd><a href="mailto:MarioChavezforLA2015@gmail.com ">Email</a></dd>
+				<dd>Tel: (213) 974-4111</dd>
+			</dl>
 			
 			<h4>Clean Campaigns</h4>
-			<p>Has Mr. Chavez sworn off campaign contributions from developers? <strong><span style="color:green;">yes.</span></strong></p>
+			<p>Has Mr. Chavez sworn off campaign contributions from developers? <strong><span style="color:green;">Yes.</span></strong></p>
 			<p>Has Mr. Chavez returned all campaign contributions from developers he may have already received? <strong><span style="color:green;">Yes.</span></strong></p>
 			
-			<p>Mario Chavez interview on Soul Rebel Radio regarding responsible development: <a href="https://clyp.it/s2rjhp4k">https://clyp.it/s2rjhp4k</a></p>
+			<p><small><em>Mario Chavez interview on Soul Rebel Radio regarding responsible development: <a href="https://clyp.it/s2rjhp4k">https://clyp.it/s2rjhp4k</a></em></small></p>
 		</div>
 	</div>
 	
@@ -38,23 +38,23 @@ content:
 	
 	
 	<div class="row">
-		<div class="large-3 columns small-2"><img src="http://placehold.it/200x250&text=[img]"/></div>
+		<div class="large-3 columns small-2"><img src="/img/mug-diaz.jpg"/></div>
 		<div class="large-9 columns">
 			
 			<h3>Nadine Diaz</h3>
-			<h5>Clinical Social Worker at the California Hospital Medical Center</h5>
+			<h6>Clinical Social Worker at the California Hospital Medical Center</h6>
 			
-			<ul class="inline-list">
-				<li><a href="http://www.nadinediaz.com">Website</a></li>
-				<li><a href="mailto:nadine@nadinediaz.com">Email</a></li>
-				<li>Tel: (323) 799-6167</li>
-			</ul>
+			<dl class="sub-nav">
+				<dd><a href="http://www.nadinediaz.com">Website</a></dd>
+				<dd><a href="mailto:nadine@nadinediaz.com">Email</a></dd>
+				<dd>Tel: (323) 799-6167</dd>
+			</dl>
 			
 			<h4>Clean Campaigns</h4>
 			<p>Has Ms. Diaz sworn off campaign contributions from developers? <strong><span style="color:green;">Yes.</span></strong></p>
 			<p>Has Ms. Diaz returned all campaign contributions from developers she may have already received? <strong><span style="color:green;">Yes.</span></strong></p>
 			
-			<p>Nadine Diaz <a href="https://www.facebook.com/NadineDiazforCD14/posts/927039540654385">statement on developer election contributions</a></p>
+			<p><small><em>Nadine Diaz <a href="https://www.facebook.com/NadineDiazforCD14/posts/927039540654385">statement on developer election contributions</a></em></small></p>
 		</div>
 	</div>
 	
@@ -65,43 +65,23 @@ content:
 		<div class="large-3 columns small-2"><img src="/img/mug-huizar.jpg"/></div>
 		<div class="large-9 columns">
 			<h3>José Huizar</h3>
-			<h5>Member of the Los Angeles City Council representing District 14</h5>
+			<h6>Member of the Los Angeles City Council representing District 14</h6>
 						
-			<ul class="inline-list">
-				<li><a href="https://en.wikipedia.org/wiki/Jos%C3%A9_Huizar">Wikipedia</a></li>
-				<li><a href="http://www.josehuizar.com">Website</a></li>
-				<li><a href="https://www.facebook.com/jose.huizar.58">Facebook</a></li>
-				<li><a href="https://twitter.com/josehuizar">Twitter</a></li>
-				<li><a href="mailto:councilmember.huizar@lacity.org">Email</a></li>
-				<li>Tel: (213) 473-7014</li>
-				<li>Tel: (323) 226-1646</a></li>
-			</ul>
+			<dl class="sub-nav">
+				<dd><a href="https://en.wikipedia.org/wiki/Jos%C3%A9_Huizar">Wikipedia</a></dd>
+				<dd><a href="http://www.josehuizar.com">Website</a></dd>
+				<dd><a href="https://www.facebook.com/jose.huizar.58">Facebook</a></dd>
+				<dd><a href="https://twitter.com/josehuizar">Twitter</a></dd>
+				<dd><a href="mailto:councilmember.huizar@lacity.org">Email</a></dd>
+				<dd>Tel: (213) 473-7014</dd>
+				<dd>Tel: (323) 226-1646</a></dd>
+			</dl>
 			
-			<!--<h4>Clean Campaigns</h4>
-			<p>Has Councilman Huizar sworn off campaign contributions from developers? <strong><span style="color:red;">No.</span></strong></p>
+			<h4>Clean Campaigns</h4>
+			<p>Councilman Huizar has not responded to requests for comment.</p>
+			
+			<!--<p>Has Councilman Huizar sworn off campaign contributions from developers? <strong><span style="color:red;">No.</span></strong></p>
 			<p>Has Councilman Huizar returned all campaign contributions from developers he may have already received? <strong><span style="color:red;">No.</span></strong></p>-->
-		</div>
-	</div>
-	
-	<hr/>
-
-
-	<div class="row">
-		<div class="large-3 columns small-2"><img src="/img/mug-huizar.jpg"/></div>
-		<div class="large-9 columns">
-			<h3>John O'Neill</h3>
-			<h5>Community Political Consultant</h5>
-						
-			<ul class="inline-list">
-				<li><a href="http://www.votejohnoneill.com">Website</a></li>
-				<li><a href="https://www.facebook.com/VoteJohnONeill">Facebook</a></li>
-				<li><a href="https://twitter.com/VoteJohnONeill">Twitter</a></li>
-				<li><a href="mailto:">Email</a></li>
-			</ul>
-			
-			<!--<h4>Clean Campaigns</h4>
-			<p>Has Mr. O'Neill sworn off campaign contributions from developers? <strong><span style="color:red;">No.</span></strong></p>
-			<p>Has Mr. O'Neill returned all campaign contributions from developers he may have already received? <strong><span style="color:red;">No.</span></strong></p>-->
 		</div>
 	</div>
 	
@@ -113,24 +93,48 @@ content:
 		<div class="large-9 columns">
 			
 			<h3>Gloria Molina</h3>
-			<h5>Former member of the Los Angeles County Board of Supervisors</h5>
+			<h6>Former member of the Los Angeles County Board of Supervisors</h6>
 			
-			<ul class="inline-list">
-				<li><a href="https://en.wikipedia.org/wiki/Gloria_Molina">Wikipedia</a></li>
-				<li><a href="http://www.molinaforcitycouncil.com">Website</a></li>
-				<li><a href="https://www.facebook.com/GloriaMolina48">Facebook</a></li>
-				<li><a href="https://twitter.com/MolinaForCD14">Twitter</a></li>
-				<li><a href="mailto:info@molinaforcitycouncil.com">Email</a></li>
-				<li>Tel: (323) 419-9360</li>
-			</ul>
+			<dl class="sub-nav">
+				<dd><a href="https://en.wikipedia.org/wiki/Gloria_Molina">Wikipedia</a></dd>
+				<dd><a href="http://www.molinaforcitycouncil.com">Website</a></dd>
+				<dd><a href="https://www.facebook.com/GloriaMolina48">Facebook</a></dd>
+				<dd><a href="https://twitter.com/MolinaForCD14">Twitter</a></dd>
+				<dd><a href="mailto:info@molinaforcitycouncil.com">Email</a></dd>
+				<dd>Tel: (323) 419-9360</dd>
+			</dl>
 			
-			<!--<h4>Clean Campaigns</h4>
+			<h4>Clean Campaigns</h4>
 			<p>Has Supervisor Molina sworn off campaign contributions from developers? <strong><span style="color:red;">No.</span></strong></p>
-			<p>Has Supervisor Molina returned all campaign contributions from developers she may have already received? <strong><span style="color:red;">No.</span></strong></p>-->
+			<p>Has Supervisor Molina returned all campaign contributions from developers she may have already received? <strong><span style="color:red;">No.</span></strong></p>
 		</div>
 	</div>
 		
 	<hr/>	
+	
+	
+	<div class="row">
+		<div class="large-3 columns small-2"><img src="/img/mug-oneill.jpg"/></div>
+		<div class="large-9 columns">
+			<h3>John O'Neill</h3>
+			<h6>Community Political Consultant</h6>
+						
+			<dl class="sub-nav">
+				<dd><a href="http://www.votejohnoneill.com">Website</a></dd>
+				<dd><a href="https://www.facebook.com/VoteJohnONeill">Facebook</a></dd>
+				<dd><a href="https://twitter.com/VoteJohnONeill">Twitter</a></dd>
+				<dd><a href="mailto:john@votejohnoneill.com">Email</a></dd>
+			</dl>
+			
+			<h4>Clean Campaigns</h4>
+			<p>Mr. O'Neill has not responded to requests for comment.</p>
+			
+			<!--<p>Has Mr. O'Neill sworn off campaign contributions from developers? <strong><span style="color:red;">No.</span></strong></p>
+			<p>Has Mr. O'Neill returned all campaign contributions from developers he may have already received? <strong><span style="color:red;">No.</span></strong></p>-->
+		</div>
+	</div>
+	
+	<hr/>
 
 
 	<!--<div class="row">
@@ -138,7 +142,7 @@ content:
 		<div class="large-9 columns">
 			
 			<h3>Alex San Martin</h3>
-			<h5>Southern Administrative Coordinator with the California Democratic Party Chicano Latino Caucus</h5>
+			<h6>Southern Administrative Coordinator with the California Democratic Party Chicano Latino Caucus</h6>
 			
 			<ul class="inline-list">
 				<li><a href="http://www.sanmartinfor2015.com">Website</a></li>
@@ -155,6 +159,7 @@ content:
 	
 	<hr/>-->
 	
-	<p><small>Note: Preserve El Sereno does not endorse or support any candidate</small></p>
+	<p><small>Note 1: Preserve El Sereno does not endorse or support any candidate<br />
+	Note 2: Responses provided by candidates or their official campaign representatives</small></p>
 
 </div>
