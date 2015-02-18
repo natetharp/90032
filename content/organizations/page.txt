@@ -189,11 +189,12 @@ content:
 		
 		
 		<h4>Los Angeles Neighborhood Land Trust</h4>
-		<p>[Description]</p>
+		<p>Launched in 2002, The Neighborhood Land Trust creates urban parks and gardens in the Los Angeles region. They work on creating, renovating and opening area parks and gardens.</p>
 		<ul class="button-group round">
 			<li><a href="http://www.lanlt.org" class="small button secondary" target="_blank">Website</a></li>
 			<li><a href="https://www.facebook.com/LANeighborhoodLandTrust" class="small button secondary" target="_blank">Facebook</a></li>
 			<li><a href="https://twitter.com/LANLT" class="small button secondary" target="_blank">Twitter</a></li>
+			<li><a href="mailto:info@lanlt.org" class="small button secondary" target="_blank">Email</a></li>
 		</ul>
 		
 		
@@ -207,8 +208,50 @@ content:
 		</ul>
 		
 		
+		<h4>Santa Monica Mountains Conservancy</h4>
+		<p>The Santa Monica Mountains Conservancy is an agency of the state of California, founded in 1980 and dedicated to the acquisition of land for preservation as open space, for wildlife and California native plants habitat Nature Preserves, and for public recreation activities.</p>
+		<ul class="button-group round">
+			<li><a href="http://smmc.ca.gov" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="https://www.facebook.com/lamountains" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="mailto:interpprograms@mrca.ca.gov" class="small button secondary" target="_blank">Email</a></li>
+			<li><a href="https://en.wikipedia.org/wiki/Santa_Monica_Mountains_Conservancy" class="small button secondary" target="_blank">Wikipedia</a></li>
+		</ul>
+		
+		<h4>Mountains Recreation and Conservation Authority</h4>
+		<p>[Description]</p>
+		<ul class="button-group round">
+			<li><a href="http://www.mrca.ca.gov" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="https://www.facebook.com/lamountains" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="mailto:info@lamountains.com" class="small button secondary" target="_blank">Email</a></li>
+		</ul>
+		
+		<div class="adr">
+			<span class="street-address">570 West Avenue 26</span>
+			<span class="extended-address">Suite 100</span>
+			<span class="locality">Los Angeles</span>,
+			<span class="region">CA</span>
+			<span class="postal-code">90065</span>
+			<span class="country-name">USA</span>
+			<span class="tel"><a href="tel:323-221-9944">323-221-9944</a></span>
+			<span class="fax"><a href="fax:323-221-9934">323-221-9934</a></span>
+		</div>
+		
+		
 	</div>
 	<div class="content" id="panel3">
+	
+	
+		<h4>California State Park and Recreation Commission</h4>
+		<p>[Description]</p>
+		<ul class="button-group round">
+			<li><a href="http://www.parks.ca.gov/?page_id=843" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="https://www.facebook.com/CaliforniaStateParks" class="small button secondary" target="_blank">Facebook</a></li>
+			<li><a href="https://twitter.com/CAStateParks" class="small button secondary" target="_blank">Twitter</a></li>
+			<li><a href="https://www.youtube.com/user/CaliforniaStateParks" class="small button secondary" target="_blank">Youtube</a></li>
+			<li><a href="mailto:info@parks.ca.gov" class="small button secondary" target="_blank">Email</a></li>
+		</ul>
+	
+	
 		<h4>LA-32 Neighborhood Council</h4>
 		<p>[Description]</p>
 		<ul class="button-group round">
