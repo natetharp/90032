@@ -38,14 +38,50 @@ Planning Director, Tanner Blackman - <a href="mailto:tanner.blackman@lacity.org"
 
 
 
+<h5><a href="http://cityplanning.lacity.org/CPC1.html">Los Angeles City Planning Commission</a></h5>
+
+<div class="adr">
+	<span class="fn">James K. Williams</span>
+	<span class="title">Commission Executive Assistant</span>
+	<span class="street-address">200 N Spring Street</span>
+	<span class="extended-address">Room 272</span>
+	<span class="locality">Los Angeles</span>,
+	<span class="region">CA</span>
+	<span class="postal-code">90012-2601</span>
+	<span class="country-name">USA</span>
+	<span class="tel"><a href="tel:213-978-1295">213-978-1295</a></span>
+	<span class="email"><a href="mailto:james.k.Williams@lacity.org">james.k.Williams@lacity.org</a></span>
+</div>
+
+
+<h5>East Los Angeles Area Planning Commission</h5>
+
+<div class="adr">
+	<span class="fn">Fely C. Pingol</span>
+	<span class="title">Commission Executive Assistant</span>
+	<span class="street-address">200 N Spring Street</span>
+	<span class="extended-address">Room 272</span>
+	<span class="locality">Los Angeles</span>,
+	<span class="region">CA</span>
+	<span class="postal-code">90012-2601</span>
+	<span class="country-name">USA</span>
+	<span class="tel"><a href="tel:213-978-1300">213-978-1300</a></span>
+	<span class="email"><a href="mailto:felicidad@lacity.org">felicidad@lacity.org</a></span>
+	<span class="email"><a href="mailto:APCEastla@lacity.org">APCEastla@lacity.org</a></span>
+</div>
 
 
 <h5>Los Angeles County Supervisor</h5>
 
-<p><strong>Hilda Solis</strong><br />
-856 Kenneth Hahn Hall of Administration <br />
-500 West Temple Street<br /> 
-Los Angeles, CA 90012<br />
-Phone: (213) 974-4111<br />
-Fax: (213) 613-1739<br />
-<a href="mailto:firstdistrict@bos.lacounty.gov">firstdistrict@bos.lacounty.gov</a></p>
+<div class="adr">
+	<span class="fn">Hilda Solis</span>
+	<span class="street-address">856 Kenneth Hahn Hall of Administration</span>
+	<span class="extended-address">500 West Temple Street</span>
+	<span class="locality">Los Angeles</span>,
+	<span class="region">CA</span>
+	<span class="postal-code">90012</span>
+	<span class="country-name">USA</span>
+	<span class="tel"><a href="tel:213-974-4111">213-974-4111</a></span>
+	<span class="fax"><a href="fax:213-613-1739">213-613-1739</a></span>
+	<span class="email"><a href="mailto:firstdistrict@bos.lacounty.gov">firstdistrict@bos.lacounty.gov</a></span>
+</div>

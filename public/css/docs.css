@@ -17,10 +17,18 @@ Warm Gray 50%	#cac0b6
 	 ========================================================================== */
 body {font-family: 'Proxima Nova', 'proxima-nova', 'Helvetica Neue', Helvetica, Arial, sans-serif;}
 
+.sticky {margin-bottom:2.5em;}
+
+header {margin-bottom:1.0em;}
+
 
 /* Type
 	 ========================================================================== */
+h1, h2, h3, h4, h5, h6 body {font-family: 'Proxima Nova', 'proxima-nova', 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+
 h1 {}
+
+header h1 {color:#008066;}
 
 h2 {}
 
@@ -53,6 +61,27 @@ a:hover, a:focus {color:#008066;}
 	background-color:#008066;}
 
 
+/* hCard
+	 ========================================================================== */
+.adr {margin-bottom:1.5em;}
+
+.adr abbr {
+	border:0;}
+
+.tel {
+	speak:spell-out;
+	speak-numeral:digits;}
+
+.adr span {
+	display:block;
+	margin-bottom:0.25em;}
+
+.adr span.locality, .adr span.region, .adr span.postal-code {
+	display:inline-block}
+
+.adr .fn {font-weight:bold;}
+
+.adr .title {font-style:italic;}
 
 
 /* Footer

@@ -15,8 +15,18 @@ content:
 <hr />
 
 <h3>Onyx Street Subdivision</h3>
-<p>2730 N. Onyx Street<br />
-Los Angeles, CA 90032</p>
+
+<div class="adr">
+	<span class="street-address">2730 N. Onyx Street</span>
+	<span class="locality">Los Angeles</span>,
+	<span class="region">CA</span>
+	<span class="postal-code">90032</span>
+</div>
+
+<p>Case number: <a href="http://planning.lacity.org/caseinfo/casesummary.aspx?case=APCE-2014-3178-ZC">APCE-2014-3178-ZC</a><br />
+Case number: <a href="http://planning.lacity.org/caseinfo/casesummary.aspx?case=ENV-2014-3179-EAF">ENV-2014-3179-EAF</a><br />
+Case number: <a href="http://planning.lacity.org/caseinfo/casesummary.aspx?case=VTT-72393-SL">VTT-72393-SL</a></p>
+
 
 <p>Proposed is a rezoning of 4.4 acres of R1 hilltop to R5 to accomodate 39 houses utilizing the Small Lot Subdivision Ordinance.</p> 
 
@@ -25,13 +35,51 @@ Los Angeles, CA 90032</p>
 	<li><a href="/docs/onyx-zoning-application-apce-2014-3178.pdf" title="" target="_blank">Zone Change Application [PDF]</a></li>
 	<li><a href="/docs/onyx-tract-map.pdf" title="" target="_blank">Project Tract Map [PDF]</a></li>
 	<li><a href="/docs/onyx-detailed-tract-map.pdf" title="" target="_blank">Detailed Project Tract Map [PDF]</a></li>
+	<li><a href="/docs/onyx-project-photo-key-map.pdf" title="" target="_blank">Project Photo Key Map [PDF]</a></li>
 </ul>
+
+<h6>Who to contact:</h6>
+
+<div class="adr">
+	<span class="fn">Gregory Shoop</span>
+	<span class="dept">City Planning Department</span>
+	<span class="street-address">200 N Spring Street</span>
+	<span class="extended-address">7th Floor</span>
+	<span class="locality">Los Angeles</span>,
+	<span class="region">CA</span>
+	<span class="postal-code">90012</span>
+	<span class="country-name">USA</span>
+	<span class="tel"><a href="tel:213-978-1243">213-978-1243</a></span>
+	<span class="email"><a href="mailto:greg.shoop@lacity.org">greg.shoop@lacity.org</a></span>
+</div>
+
+<div class="adr">
+	<span class="fn">Mary Whisnant</span>
+	<span class="dept">City Planning Department</span>
+	<span class="street-address">200 N Spring Street</span>
+	<span class="extended-address">7th Floor</span>
+	<span class="locality">Los Angeles</span>,
+	<span class="region">CA</span>
+	<span class="postal-code">90012</span>
+	<span class="country-name">USA</span>
+	<span class="tel"><a href="tel:213-978-1369">213-978-1369</a></span>
+	<span class="email"><a href="mailto:susan.whisnant@lacity.org">susan.whisnant@lacity.org</a></span>
+</div>
+
+<p><a href="/contacting-officials/">Who else can I contact?</a></p>
+
+
 
 <hr />
 
 <h3>Huntington Drive at Collis Street</h3>
-<p>4675 E. Huntington Drive South<br />
-Los Angeles, CA 90032</p>
+
+<div class="adr">
+	<span class="street-address">4675 E. Huntington Drive South</span>
+	<span class="locality">Los Angeles</span>,
+	<span class="region">CA</span>
+	<span class="postal-code">90032</span>
+</div>
 
 <img src="/public/img/huntington-collis-20140513-lg.jpg" alt="" />
 
@@ -44,6 +92,40 @@ Los Angeles, CA 90032</p>
 	<li><a href="/docs/collis-conditional-use-application.pdf" title="" target="_blank">Conditional Use Application [PDF]</a></li>
 </ul>
 
+<p>The planner assigned to the <em>environmental</em> portion of this case <a href="http://planning.lacity.org/caseinfo/casesummary.aspx?case=ENV-2014-1116-MND">ENV-2014-1116-MND</a> is:</p>
+
+<div class="adr">
+	<span class="fn">Ms. Kinikia Gardner</span>
+	<span class="title">Planning Assistant</a>
+	<span class="dept">City Planning Department</span>
+	<span class="street-address">200 N Spring Street</span>
+	<span class="extended-address">7th Floor</span>
+	<span class="locality">Los Angeles</span>,
+	<span class="region">CA</span>
+	<span class="postal-code">90012</span>
+	<span class="country-name">USA</span>
+	<span class="tel"><a href="tel:213-978-1340">213-978-1340</a></span>
+	<span class="email"><a href="mailto:kinikia.gardner@lacity.org">kinikia.gardner@lacity.org</a></span>
+</div>
+
+
+<p>The planner for the <em>zoning</em> aspect of the case <a href="http://planning.lacity.org/caseinfo/casesummary.aspx?case=ZA-2014-1115-CU">ZA-2014-1115-CU</a> is:</p>
+
+<div class="adr">
+	<span class="fn">Lynda Smith</span>
+	<span class="title">Planning Assistant</a>
+	<span class="dept">City Planning Department</span>
+	<span class="street-address">200 N Spring Street</span>
+	<span class="extended-address">7th Floor</span>
+	<span class="locality">Los Angeles</span>,
+	<span class="region">CA</span>
+	<span class="postal-code">90012</span>
+	<span class="country-name">USA</span>
+	<span class="tel"><a href="tel:213-978-1196">213-978-1196</a></span>
+	<span class="email"><a href="mailto:lynda.smith@lacity.org">lynda.smith@lacity.org</a></span>
+</div>
+
+<p><a href="/contacting-officials/">Who else can I contact?</a></p>
 
 <hr />
 
