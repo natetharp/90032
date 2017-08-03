@@ -3,7 +3,7 @@ title: Land Use Issues
 lede: The Eastern &amp; Lombardy project isn't the only one impacting our area
 -
 content:
-<h3>Eastern at Lombardy - Clearwater Properties</h3>
+<h3>Eastern and Lombardy - Clearwater Properties</h3>
 <h5><em>2014-2015</em></h5>
 <h4><a href="/land-use/eastern-lombardy-clearwater/#background">Background</a> and <a href="/land-use/eastern-lombardy-clearwater/#faq">FAQ</a></h4>
 <h4><a href="/petition/">Sign the Petition</a></h4>
@@ -14,10 +14,10 @@ content:
 
 <hr />
 
-<h3>Onyx Street Subdivision</h3>
+<h3><a href="https://www.google.com/maps/place/2730+Onyx+Dr,+Los+Angeles,+CA+90032/@34.0773701,-118.1962543,17z/data=!3m1!4b1!4m2!3m1!1s0x80c2c5d2fb973387:0xbedaa334137dee18">Onyx Street Subdivision</a></h3>
 
 <div class="adr">
-	<span class="street-address">2730 N. Onyx Street</span>
+	<span class="street-address">2730 N. Onyx Drive</span>
 	<span class="locality">Los Angeles</span>,
 	<span class="region">CA</span>
 	<span class="postal-code">90032</span>
@@ -72,7 +72,7 @@ Case number: <a href="http://planning.lacity.org/caseinfo/casesummary.aspx?case=
 
 <hr />
 
-<h3>Huntington Drive at Collis Street</h3>
+<h3><a href="https://www.google.com/maps/place/4675+Huntington+Dr+S,+Los+Angeles,+CA+90032/@34.0855734,-118.1834071,18z/data=!3m1!4b1!4m2!3m1!1s0x80c2c435791c04e7:0x5745157902eae750">Huntington Drive at Harriman Avenue</a></h3>
 
 <div class="adr">
 	<span class="street-address">4675 E. Huntington Drive South</span>
@@ -81,15 +81,18 @@ Case number: <a href="http://planning.lacity.org/caseinfo/casesummary.aspx?case=
 	<span class="postal-code">90032</span>
 </div>
 
-<img src="/public/img/huntington-collis-20140513-lg.jpg" alt="" />
+<img src="/public/img/huntington-harriman-20140513-lg.jpg" alt="" />
 
 <!--<h4><a href="/land-use/huntington-collis/#background">Background</a> and <a href="/land-use/huntington-collis/#faq">FAQ</a></h4>-->
 
 <h6>Links:</h6>
 <ul>
-	<li><a href="/docs/collis-project-plans.pdf" title="" target="_blank">Project Plans [PDF]</a></li>
-	<li><a href="/docs/collis-mnd-env-2014-1116.pdf" title="" target="_blank">Mitigated Negative Declarations [PDF]</a></li>
-	<li><a href="/docs/collis-conditional-use-application.pdf" title="" target="_blank">Conditional Use Application [PDF]</a></li>
+	<li><a href="/docs/harriman-site-plan.pdf" title="" target="_blank">Site Plan [PDF]</a></li>
+	<li><a href="/docs/harriman-floor-plan.pdf" title="" target="_blank">Floor Plan [PDF]</a></li>
+	<li><a href="/docs/harriman-renderings.pdf" title="" target="_blank">Renderings [PDF]</a></li>
+	<li><a href="/docs/harriman-project-plans.pdf" title="" target="_blank">Project Plans [PDF]</a></li>
+	<li><a href="/docs/harriman-mnd-env-2014-1116.pdf" title="" target="_blank">Mitigated Negative Declarations [PDF]</a></li>
+	<li><a href="/docs/harriman-conditional-use-application.pdf" title="" target="_blank">Conditional Use Application [PDF]</a></li>
 </ul>
 
 <p>The planner assigned to the <em>environmental</em> portion of this case <a href="http://planning.lacity.org/caseinfo/casesummary.aspx?case=ENV-2014-1116-MND">ENV-2014-1116-MND</a> is:</p>
@@ -129,7 +132,7 @@ Case number: <a href="http://planning.lacity.org/caseinfo/casesummary.aspx?case=
 
 <hr />
 
-<h3>Soto Street Bridge</h3>
+<h3><a href="https://www.google.com/maps/place/4208+Huntington+Dr+S,+Los+Angeles,+CA+90032/@34.078111,-118.191763,17z/data=!3m1!4b1!4m7!1m4!3m3!1s0x80c2c5d2fb973387:0xbedaa334137dee18!2s2730+Onyx+Dr,+Los+Angeles,+CA+90032!3b1!3m1!1s0x80c2c5cda91ac119:0x3b06dc1a44e31444">Soto Street Bridge</a></h3>
 <h4>Background and FAQ</h4>
 <h4>Documents and Resources</h4>
 <h6>Links:</h6>

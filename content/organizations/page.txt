@@ -135,7 +135,17 @@ content:
 			<li><a href="http://cultivatelosangeles.org/feed/" class="small button secondary" target="_blank">RSS</a></li>
 			
 		</ul>
-
+		
+		
+		<h4>Farm LA</h4>
+		<p>Farm LA is a registered 501(c)3& non-profit organization dedicated to rescuing underutilized land in Los Angeles for solar and draught-tolerant agricultural farming.</p>
+		<ul class="button-group round">
+			<li><a href="http://www.farmla.org" class="small button secondary" target="_blank">Website</a></li>
+			<li><a href="https://www.facebook.com/FarmLosAngeles" class="small button secondary" target="_blank">Facebook</a></li>
+			<!--<li><a href="#" class="small button secondary" target="_blank">Twitter</a></li>-->
+			
+		</ul>
+		
 
 		<h4>From Lot to Spot</h4>
 		<p>[Description]</p>
